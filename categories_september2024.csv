@@ -1,0 +1,4448 @@
+id,name,categorygroupid
+1,"Employment Agency",27
+2,Accountant,35
+3,"Accounting firm",30
+4,"Accounting software company",14
+5,"Certified public accountant",27
+6,"Software company",36
+7,Website designer,36
+8,"Chartered accountant",27
+9,"Tax consultant",13
+10,"Design agency",27
+11,"Graphic designer",27
+12,"Industrial design company",1
+13,"Interior Decorator",3
+14,"Interior designer",3
+15,"Jewelry designer",32
+16,"Media company",4
+17,"Media consultant",27
+18,"Media house",4
+19,"Model design company",4
+20,"Multimedia and electronic book publisher",27
+21,"Biotechnology company",17
+22,"Employment center",27
+23,"Employment consultant",27
+24,"Employment search service",27
+25,"Executive search firm",27
+26,Recruiter,27
+27,"Aadhar center",15
+28,"Abarth dealer",5
+29,Abbey,30
+30,"Aboriginal and Torres Strait Islander organisation",23
+31,"Aboriginal art gallery",15
+32,"Abortion clinic",8
+33,"Abrasives supplier",4
+34,"Abundant Life church",23
+35,"Açaí shop",4
+36,"Acaraje restaurant",16
+37,"Accounting school",14
+38,"Acoustical consultant",27
+39,"Acrobatic diving pool",27
+40,"Acrylic store",9
+41,"Acupuncture clinic",36
+42,"Acupuncture school",7
+43,Acupuncturist,34
+44,"Acura dealer",32
+45,"Addiction treatment center",16
+46,"Administrative attorney",9
+47,"Adoption agency",16
+48,"Adult day care center",8
+49,"Adult DVD store",16
+50,"Adult education school",27
+51,"Adult entertainment club",23
+52,"Adult entertainment store",16
+53,"Adult foster care service",32
+54,"Adventure sports",34
+55,"Adventure sports center",34
+56,"Advertising agency",27
+57,"Commercial photographer",4
+58,"Aerated drinks supplier",35
+59,"Antenna service",27
+60,"Aerial photographer",4
+61,"Aerial sports center",34
+62,"Aero dance class",34
+63,"Aerobics instructor",34
+64,Aeroclub,34
+65,"Aeromodel shop",32
+66,"Aeronautical engineer",11
+67,"Aerospace company",21
+68,"Afghan restaurant",14
+69,"African goods store",32
+70,"African restaurant",14
+71,"After school program",9
+72,"Agenzia Entrate",15
+73,"Aggregate supplier",35
+74,"Agistment service",2
+75,"Agricultural association",2
+76,"Agricultural cooperative",2
+77,"Agricultural engineer",2
+78,"Agricultural high school",9
+79,"Agricultural machinery manufacturer",21
+80,"Agricultural organization",2
+81,"Agricultural product wholesaler",32
+82,"Agricultural production",2
+83,"Agricultural service",2
+84,"Agriculture cooperative",2
+85,"Agrochemicals supplier",35
+86,"Aikido club",34
+87,"Aikido school",9
+88,"Air compressor repair service",31
+89,"Air compressor supplier",35
+90,"Air conditioning contractor",7
+91,"Air conditioning repair service",31
+92,"Air conditioning store",32
+93,"Air conditioning system supplier",35
+94,"Air duct cleaning service",7
+95,"Air filter supplier",35
+96,"Air force base",15
+97,"Air taxi",37
+98,"Airbrushing service",4
+99,"Airbrushing supply store",32
+100,"Aircraft dealer",8
+101,"Aircraft maintenance company",21
+102,"Aircraft manufacturer",21
+103,"Aircraft rental service",21
+104,"Aircraft supply store",32
+105,Airline,37
+106,"Airline ticket agency",37
+107,Airplane,37
+108,Airport,37
+109,"Airport shuttle service",37
+110,"Airsoft supply store",32
+111,Airstrip,37
+112,"Alcohol manufacturer",21
+113,"Alcohol retail monopoly",32
+114,"Alcoholic beverage wholesaler",32
+115,"Alcoholism treatment program",16
+116,"Alfa Romeo dealer",8
+117,Allergist,16
+118,"Alliance church",30
+119,"Alsace restaurant",14
+120,"Alternative fuel station",32
+121,"Alternative medicine practitioner",16
+122,"Alternator supplier",35
+123,"Aluminum supplier",35
+124,"Aluminum frames supplier",35
+125,"Aluminum welder",21
+126,"Aluminum window",21
+127,"Amateur theater",4
+128,"Ambulance service",16
+129,"American grocery store",32
+130,"American restaurant",14
+131,"Amish furniture store",32
+132,"Ammunition supplier",35
+133,Amphitheater,4
+134,"Amusement center",34
+135,"Amusement machine supplier",35
+136,"Amusement park",34
+137,"Amusement park ride",34
+138,"Amusement ride supplier",35
+139,"Anhui restaurant",14
+140,"Anago restaurant",14
+141,"Andalusian restaurant",14
+142,"Andhra restaurant",14
+143,Anesthesiologist,22
+144,"Anganwadi center",15
+145,"Angler fish restaurant",14
+146,"Anglican church",30
+147,"Animal control service",15
+148,"Animal hospital",16
+149,"Animal park",34
+150,"Animal protection organization",23
+151,"Animal rescue service",23
+152,"Animal shelter",23
+153,"Animal watering hole",34
+154,"Animation studio",4
+155,"Anime club",4
+156,"Anodizing service",21
+157,"Antique furniture restoration service",32
+158,"Antique furniture store",32
+159,"Antique store",32
+160,"Apartment building",28
+161,"Apartment complex",28
+162,"Apartment rental agency",28
+163,"Apostolic church",30
+164,"Appliance parts supplier",35
+165,"Appliance rental service",32
+166,"Appliance repair service",31
+167,"Appliance store",32
+168,"Appliances customer service",27
+169,Appraiser,27
+170,"Apprenticeship center",9
+171,"Aquaculture farm",2
+172,Aquarium,34
+173,"Aquarium shop",32
+174,"Aquatic centre",34
+175,"Arab restaurant",14
+176,Arboretum,34
+177,"Arborist and tree surgeon",7
+178,"Archaeological museum",4
+179,"Archery club",34
+180,"Archery range",34
+181,"Archery store",32
+182,Architect,3
+183,"Architects association",3
+184,"Architectural and engineering model maker",3
+185,"Architectural designer",3
+186,"Architectural salvage store",32
+187,"Architecture firm",3
+188,"Architecture school",9
+189,Archive,27
+190,Arena,34
+191,"Argentinian restaurant",14
+192,"Armed forces association",23
+193,"Armenian church",30
+194,"Armenian restaurant",14
+195,"Army & navy surplus shop",32
+196,"Army barracks",15
+197,"Army facility",15
+198,"Army museum",4
+199,"Aromatherapy class",16
+200,"Aromatherapy service",16
+201,"Aromatherapy supply store",32
+202,"Art café",14
+203,"Art center",4
+204,"Art dealer",8
+205,"Art gallery",4
+206,"Art handcraft",4
+207,"Art museum",4
+208,"Art restoration service",4
+209,"Art school",9
+210,"Art studio",4
+211,"Art supply store",32
+212,"Artificial plant supplier",35
+213,Artist,4
+214,"Arts organization",4
+215,Grill,14
+216,"Asbestos testing service",7
+217,Ashram,30
+218,"Asian fusion restaurant",14
+219,"Asian grocery store",32
+220,"Asian household goods store",32
+221,"Asian restaurant",14
+222,"Asphalt contractor",7
+223,"Asphalt mixing plant",7
+224,"Assamese restaurant",14
+225,"Assemblies of God church",30
+226,"Assembly room",12
+227,"Assistante maternelle",19
+228,"Assisted living facility",16
+229,"Association or organization",23
+230,"Aston Martin dealer",8
+231,Astrologer,25
+232,"Asturian restaurant",14
+233,"Athletic club",34
+234,"Athletic field",34
+235,"Athletic park",34
+236,"Athletic track",34
+237,ATM,13
+238,"Attorney referral service",27
+239,"ATV dealer",8
+240,"ATV rental service",21
+241,"ATV repair shop",31
+242,"Auction house",32
+243,"Audi dealer",8
+244,"Audio visual consultant",27
+245,"Audiovisual equipment rental service",27
+246,"Audio visual equipment repair service",31
+247,"Audio visual equipment supplier",35
+248,Audiologist,22
+249,Auditor,27
+250,Auditorium,4
+251,"Australian goods store",32
+252,"Australian restaurant",14
+253,"Austrian restaurant",14
+254,"Auto accessories wholesaler",5
+255,"Auto air conditioning service",5
+256,"Auto auction",5
+257,"Auto body parts supplier",35
+258,"Auto body shop",5
+259,"Auto bodywork mechanic",5
+260,"Auto broker",5
+261,"Auto chemistry shop",21
+262,"Auto dent removal service",31
+263,"Auto electrical service",5
+264,"Auto glass repair service",31
+265,"Auto glass shop",5
+266,"Auto insurance agency",13
+267,"Auto machine shop",5
+268,"Auto market",5
+269,"Auto painting",5
+270,"Auto parts manufacturer",21
+271,"Auto parts market",5
+272,"Auto parts store",5
+273,"Auto radiator repair service",31
+274,"Auto repair shop",31
+275,"Auto restoration service",31
+276,"Auto rickshaw stand",37
+277,"Auto spring shop",5
+278,"Auto sunroof shop",5
+279,"Auto tag agency",5
+280,"Auto tune up service",5
+281,"Auto upholsterer",5
+282,"Auto window tinting service",5
+283,"Auto wrecker",5
+284,"Automation company",36
+285,"Automobile storage facility",5
+286,"Aviation consultant",27
+287,"Aviation training institute",9
+288,"Awadhi restaurant",14
+289,"Awning supplier",35
+290,"Ayam penyet restaurant",14
+291,"Ayurvedic clinic",16
+292,"Baby clothing store",32
+293,"Baby store",32
+294,"Baby swimming school",34
+295,Childminder,9
+296,"Baden restaurant",14
+297,"Badminton club",34
+298,"Badminton complex",34
+299,"Badminton court",34
+300,"Bag shop",32
+301,"Bagel shop",14
+302,"Bahá’í house of worship",30
+303,"Bail bonds service",27
+304,"Bait shop",34
+305,Bakery,14
+306,"Bakery equipment",21
+307,"Baking supply store",32
+308,"Bakso restaurant",14
+309,"Balinese restaurant",14
+310,"Ballet school",4
+311,"Ballet theater",4
+312,"Balloon artist",4
+313,"Balloon ride tour agency",20
+314,"Balloon store",32
+315,"Ballroom dance instructor",34
+316,Band,4
+317,"Bangladeshi restaurant",14
+318,"Bangle Shop",32
+319,Bank,13
+320,"Bankruptcy attorney",27
+321,"Bankruptcy service",27
+322,"Banner store",32
+323,"Banquet hall",12
+324,"Baptist church",30
+325,Bar,14
+326,"Bar & grill",14
+327,"Bar PMU",14
+328,"Bar restaurant furniture store",32
+329,"Bar stool supplier",35
+330,"Bar tabac",14
+331,"Barbecue restaurant",14
+332,"Barbecue area",34
+333,"Barber school",9
+334,"Barber shop",6
+335,"Barber supply store",32
+336,"Bariatric surgeon",22
+337,"Bark supplier",35
+338,"Barrel supplier",35
+339,Barrister,27
+340,"Bartending school",9
+341,"Baseball club",34
+342,"Baseball field",34
+343,"Baseball goods store",32
+344,Basilica,30
+345,"Basket supplier",35
+346,"Basketball club",34
+347,"Basketball court",34
+348,"Basketball court contractor",7
+349,"Basque restaurant",14
+350,"Batak restaurant",14
+351,"Bathroom remodeler",7
+352,"Bathroom supply store",32
+353,"Batik clothing store",32
+354,"Battery manufacturer",21
+355,"Battery store",32
+356,"Battery wholesaler",32
+357,"Batting cage center",34
+358,"Bavarian restaurant",14
+359,Bazar,32
+360,"BBQ area",34
+361,"Beach cleaning service",33
+362,"Beach clothing store",32
+363,"Beach entertainment shop",32
+364,"Beach pavilion",20
+365,"Beach volleyball club",34
+366,"Beach volleyball court",34
+367,"Bead store",32
+368,"Bead wholesaler",32
+369,"Bearing supplier",35
+370,Beautician,6
+371,"Beauty product supplier",35
+372,"Beauty products vending machine",32
+373,"Beauty products wholesaler",32
+374,"Beauty salon",6
+375,"Beauty school",9
+376,"Beauty supply store",32
+377,"Bed & breakfast",20
+378,"Bed shop",32
+379,"Bedding store",32
+380,"Bedroom furniture store",32
+381,"Gyudon restaurant",14
+382,"Beer distributor",14
+383,"Beer garden",14
+384,"Beer hall",14
+385,"Beer store",14
+386,"Belgian restaurant",14
+387,"Belt shop",32
+388,"Bengali restaurant",14
+389,"Bentley dealer",8
+390,"Berry restaurant",14
+391,Berufsfachschule,9
+392,"Betawi restaurant",14
+393,"Betting agency",7
+394,"Beverage distributor",14
+395,"Bicycle club",34
+396,"Bicycle rack",34
+397,"Bicycle rental service",34
+398,"Bicycle repair shop",31
+399,"Bicycle store",32
+400,"Bicycle wholesaler",32
+401,"Bike wash",21
+402,"Bikram yoga studio",34
+403,"Bilingual school",9
+404,"Billiards supply store",34
+405,"Bingo hall",4
+406,"Biochemical supplier",35
+407,"Biochemistry lab",17
+408,"Biofeedback therapist",16
+409,"Biotechnology engineer",11
+410,"Bird control service",7
+411,"Bird shop",32
+412,"Bird watching area",29
+413,"Birth center",17
+414,"Birth certificate service",15
+415,"Birth control center",17
+416,"Biryani restaurant",14
+417,Bistro,14
+418,Blacksmith,7
+419,"Blast cleaning service",19
+420,"Blind school",9
+421,"Blinds shop",32
+422,"Blood bank",17
+423,"Blood donation center",17
+424,"Blood testing service",17
+425,"Blueprint service",27
+426,"Blues club",4
+427,"BMW dealer",8
+428,"BMW motorcycle dealer",8
+429,"BMX club",34
+430,"BMX park",34
+431,"BMX track",34
+432,"Board game club",34
+433,"Board of education",9
+434,"Boarding house",20
+435,"Boarding school",9
+436,"Boat accessories supplier",35
+437,"Boat builders",21
+438,"Boat club",34
+439,"Boat cover supplier",35
+440,"Boat dealer",8
+441,"Boat ramp",34
+442,"Boat rental service",34
+443,"Boat repair shop",31
+444,"Boat storage facility",21
+445,"Boat tour agency",20
+446,"Boat trailer dealer",8
+447,"Boating instructor",34
+448,"Bocce ball court",34
+449,"Body piercing shop",6
+450,"Body shaping class",34
+451,"Boiler manufacturer",21
+452,"Boiler supplier",35
+453,"Bonesetting house",17
+454,"Bonsai plant supplier",35
+455,"Book publisher",4
+456,"Book store",32
+457,Bookbinder,27
+458,"Bookkeeping service",13
+459,Bookmaker,21
+460,"Books wholesaler",32
+461,"Boot camp",34
+462,"Boot repair shop",31
+463,"Boot store",32
+464,"Border crossing station",37
+465,"Border guard",15
+466,"Botanical garden",29
+467,"Bottle & can redemption center",4
+468,"Bottled water supplier",35
+469,"Bouncy castle hire",12
+470,Boutique,32
+471,"Bowling alley",34
+472,"Bowling club",34
+473,"Bowling supply shop",32
+474,"Box lunch supplier",35
+475,"Boxing club",34
+476,"Boxing gym",34
+477,"Boxing ring",34
+478,"Boys’ high school",9
+479,"BPO company",27
+480,"BPO placement agency",27
+481,"Brake shop",5
+482,"Brazilian pastelaria",14
+483,"Brazilian restaurant",14
+484,"Breakfast restaurant",14
+485,Brewery,14
+486,"Brewing supply store",32
+487,Brewpub,14
+488,"Brick manufacturer",21
+489,Bricklayer,7
+490,"Bridal shop",32
+491,Bridge,7
+492,"Bridge club",34
+493,"British restaurant",14
+494,"Brunch restaurant",14
+495,"Bubble tea store",14
+496,"Buddhist supplies store",35
+497,"Buddhist temple",30
+498,"Buffet restaurant",14
+499,"Bugatti dealer",8
+500,"Buick dealer",8
+501,"Building consultant",7
+502,"Building design company",7
+503,"Building designer",7
+504,"Building equipment hire service",7
+505,"Building firm",7
+506,"Building inspector",7
+507,"Building materials market",7
+508,"Building materials store",7
+509,"Building materials supplier",35
+510,"Building restoration service",7
+511,"Building society",28
+512,"Chartered surveyor",28
+513,"Bulgarian restaurant",14
+514,Bullring,34
+515,"Bungee jumping center",34
+516,"Burglar alarm store",32
+517,"Burmese restaurant",14
+518,"Burrito restaurant",14
+519,"Bus and coach company",37
+520,"Bus charter",37
+521,"Bus company",37
+522,"Bus depot",37
+523,"Bus ticket agency",37
+524,"Bus tour agency",37
+525,"Business administration service",27
+526,"Business banking service",13
+527,"Business broker",27
+528,"Business center",27
+529,"Business development service",27
+530,"Business management consultant",27
+531,"Business networking company",27
+532,"Business park",28
+533,"Business school",9
+534,"Business to business service",27
+535,"Butane gas supplier",35
+536,"Butcher shop",32
+537,"Butcher shop deli",32
+538,"Butsudan store",32
+539,"Cabaret club",4
+540,"Cabin rental agency",20
+541,"Cabinet maker",7
+542,"Cabinet store",32
+543,"Cable company",36
+544,"Cadillac dealer",8
+545,Café,14
+546,Cafeteria,14
+547,"Cajun restaurant",14
+548,"Cake decorating equipment shop",32
+549,"Cake shop",14
+550,"Californian restaurant",14
+551,"Call center",27
+552,"Call shop",27
+553,"Calligraphy lesson",4
+554,"Calvary Chapel church",23
+555,"Cambodian restaurant",14
+556,"Camera repair shop",31
+557,"Camera store",32
+558,"Children’s camp",9
+559,"Camper shell supplier",35
+560,Campground,20
+561,"Camping cabin",20
+562,"Camping farm",20
+563,"Camping store",32
+564,"Pacific Northwest restaurant (Canada)",14
+565,"Canadian restaurant",14
+566,"Cancer treatment center",16
+567,"Candle store",32
+568,"Candy store",32
+569,"Cane furniture store",32
+570,"Cannabis store",32
+571,Cannery,21
+572,"Canoe and kayak club",34
+573,"Canoe & kayak rental service",34
+574,"Canoe & kayak store",34
+575,"Canoe & kayak tour agency",34
+576,"Canoeing area",34
+577,"Cantabrian restaurant",14
+578,"Cantonese restaurant",14
+579,"Cape Verdean restaurant",14
+580,"Capoeira school",34
+581,"Capsule hotel",20
+582,"Car accessories store",32
+583,"Car alarm supplier",35
+584,"Car battery store",5
+585,"Car dealer",8
+586,"Car detailing service",5
+587,"Car factory",21
+588,"Car finance and loan company",13
+589,"Car inspection station",5
+590,"Car leasing service",5
+591,"Car manufacturer",21
+592,"Car racing track",34
+593,"Car rental agency",27
+594,"Car repair and maintenance service",31
+595,"Car security system installer",5
+596,"Chauffeur service",37
+597,"Car sharing location",37
+598,"Car stereo store",5
+599,"Car wash",5
+600,"Carabinieri police",23
+601,Cardiologist,22
+602,"Cardiovascular and thoracic surgeon",22
+603,"Career guidance service",27
+604,"Caribbean restaurant",14
+605,"Carnival club",34
+606,Carpenter,7
+607,"Carpet cleaning service",27
+608,"Carpet installer",7
+609,"Carpet manufacturer",21
+610,"Carpet store",32
+611,"Carpet wholesaler",32
+612,Carpool,37
+613,"Carport and pergola builder",7
+614,"Carriage ride service",20
+615,Carvery,14
+616,"Cash and carry wholesaler",32
+617,Casino,20
+618,"Casket service",27
+619,"Castilian restaurant",14
+620,Castle,20
+621,"Syokudo and Teishoku restaurant",14
+622,"Conveyor belt sushi restaurant",14
+623,"Cat boarding service",26
+624,"Cat breeder",26
+625,"Cat trainer",26
+626,"Catalonian restaurant",14
+627,"Catering food and drink supplier",35
+628,Caterer,14
+629,Cathedral,23
+630,"Catholic cathedral",23
+631,"Catholic church",23
+632,"Catholic school",9
+633,Cattery,26
+634,"Cattle farm",2
+635,"Cattle market",2
+636,"Caucasian restaurant",14
+637,"CBSE school",9
+638,"CD store",32
+639,"Ceiling supplier",35
+640,"Cell phone accessory store",32
+641,"Cell phone charging station",32
+642,"Cell phone store",32
+643,"Cement manufacturer",21
+644,"Cement supplier",35
+645,Cemetery,23
+646,"Cendol restaurant",14
+647,"Central American restaurant",14
+648,"Central authority",15
+649,"Central bank",13
+650,"Central European restaurant",14
+651,"Central Javanese restaurant",14
+652,"Ceramic manufacturer",21
+653,"Ceramics wholesaler",32
+654,"Certification agency",27
+655,Chalet,20
+656,"Chamber of agriculture",23
+657,"Chamber of Commerce",23
+658,"Chamber of handicrafts",23
+659,"Champon noodle restaurant",14
+660,"Chanko restaurant",14
+661,Chapel,23
+662,Charcuterie,14
+663,Charity,23
+664,"Charter school",9
+665,"Check cashing service",13
+666,"Cheese manufacturer",21
+667,"Cheese shop",14
+668,"Cheesesteak restaurant",14
+669,"Chemical engineer",11
+670,"Chemical exporter",21
+671,"Chemical manufacturer",21
+672,"Chemical plant",21
+673,"Chemical wholesaler",32
+674,"Chemistry faculty",9
+675,"Chemistry lab",9
+676,"Chesapeake restaurant",14
+677,"Chess and card club",34
+678,"Chess club",34
+679,"Chess instructor",9
+680,"Chettinad restaurant",14
+681,"Chevrolet dealer",8
+682,"Chicken hatchery",2
+683,"Chicken restaurant",14
+684,"Chicken shop",32
+685,"Chicken wings restaurant",14
+686,"Child care agency",19
+687,"Child health care centre",16
+688,"Child psychiatrist",22
+689,"Child psychologist",22
+690,"Childbirth class",16
+691,"Children’s amusement center",4
+692,"Children hall",4
+693,"Children Policlinic",16
+694,"Children’s book store",32
+695,"Children’s café",14
+696,"Children’s clothing store",32
+697,"Children’s club",4
+698,"Children’s farm",2
+699,"Children’s furniture store",32
+700,"Children’s home",23
+701,"Children’s hospital",16
+702,"Children’s library",9
+703,"Children’s museum",4
+704,"Children’s party buffet",14
+705,"Children’s party service",4
+706,"Children’s store",32
+707,"Children’s theater",4
+708,"Chilean restaurant",14
+709,"Chimney services",7
+710,"Chimney sweep",7
+711,"Chinaware store",32
+712,"Chinese language instructor",9
+713,"Chinese language school",9
+714,"Chinese medicine clinic",16
+715,"Chinese medicine store",32
+716,"Chinese noodle restaurant",14
+717,"Chinese bakery",14
+718,"Chinese restaurant",14
+719,"Chinese supermarket",32
+720,"Chinese takeaway",14
+721,"Chinese tea house",14
+722,Chiropractor,22
+723,"Chocolate artisan",14
+724,"Chocolate cafe",14
+725,"Chocolate factory",21
+726,"Chocolate shop",14
+727,Choir,4
+728,"Chop bar",14
+729,"Chophouse restaurant",14
+730,"Christian book store",32
+731,"Christian church",23
+732,"Christian college",9
+733,"Christmas market",12
+734,"Christmas store",32
+735,"Christmas tree farm",2
+736,"Chrysler dealer",8
+737,Church,23
+738,"Church of Christ",23
+739,"Church of Jesus Christ of Latter-day Saints",23
+740,"Church of the Nazarene",23
+741,"Church supply store",32
+742,Churreria,14
+743,"Cider bar",14
+744,"Cider mill",14
+745,"Cig kofte restaurant",14
+746,"Cigar shop",32
+747,"Cinema equipment supplier",35
+748,Circus,4
+749,"Citizen information bureau",15
+750,"Citizens advice bureau",15
+751,"Citroen dealer",8
+752,"City administration",15
+753,"City clerk’s office",15
+754,"City courthouse",15
+755,"City Department of Environment",15
+756,"City Department of Public Safety",15
+757,"City department of transportation",15
+758,"City district office",15
+759,"City employment department",15
+760,"City government office",15
+761,"City or town hall",15
+762,"City park",20
+763,"City pillar shrine",23
+764,"City tax office",15
+765,"Civic center",15
+766,"Civil defense",15
+767,"Civil engineer",11
+768,"Civil engineering company",7
+769,"Civil examinations academy",9
+770,"Civil law attorney",27
+771,"Civil police",15
+772,"Civil registry",15
+773,Class,9
+774,"Classified ads newspaper publisher",4
+775,Cleaners,27
+776,"Cleaning products supplier",35
+777,Clergyman,23
+778,"Clock repair service",31
+779,"Clock watch maker",27
+780,"Closed circuit television",27
+781,"Clothes and fabric manufacturer",21
+782,"Clothes and fabric wholesaler",32
+783,"Clothes market",32
+784,"Clothing alteration service",32
+785,"Clothing store",32
+786,"Clothing supplier",35
+787,"Clothing wholesale market place",32
+788,"Clothing wholesaler",32
+789,Club,4
+790,"CNG fitment center",21
+791,"Compressed natural gas station",10
+792,"Coaching center",9
+793,"Coal exporter",10
+794,"Coal supplier",35
+795,Coalfield,21
+796,"Coast guard station",15
+797,"Coat wholesaler",32
+798,"Cocktail bar",14
+799,"Co-ed school",9
+800,"Coffee machine supplier",35
+801,"Coffee roasters",14
+802,"Coffee shop",14
+803,"Coffee stand",14
+804,"Coffee store",32
+805,"Coffee vending machine",32
+806,"Coffee wholesaler",32
+807,"Coffin supplier",35
+808,"Coin dealer",8
+809,"Coin operated laundry equipment supplier",35
+810,"Coin operated locker",32
+811,"Cold cut store",14
+812,"Cold noodle restaurant",14
+813,"Cold storage facility",37
+814,"Collectibles store",32
+815,College,9
+816,"College of agriculture",9
+817,"Colombian restaurant",14
+818,"Combined primary and secondary school",9
+819,"Comedy club",4
+820,"Comic book store",32
+821,"Comic cafe",14
+822,"Commercial agent",28
+823,"Commercial cleaning service",27
+824,"Commercial printer",27
+825,"Commercial real estate agency",28
+826,"Commercial real estate inspector",28
+827,"Commercial refrigeration",27
+828,"Commercial refrigerator supplier",35
+829,"Commissioner for Oaths",27
+830,"Communications central",36
+831,"Community center",23
+832,"Community college",9
+833,"Community garden",23
+834,"Community health centre",17
+835,"Community school",9
+836,"Company registry",27
+837,"Comprehensive secondary school",9
+838,"Computer accessories store",32
+839,"Computer club",9
+840,"Computer consultant",36
+841,"Computer desk store",32
+842,"Computer hardware manufacturer",21
+843,"Computer networking service",36
+844,"Computer repair service",31
+845,"Computer security service",36
+846,"Computer service",36
+847,"Computer software store",32
+848,"Computer store",32
+849,"Computer support and services",36
+850,"Computer training school",9
+851,"Computer wholesaler",32
+852,"Concert hall",4
+853,"Concrete contractor",7
+854,"Concrete factory",21
+855,"Concrete metal framework supplier",35
+856,"Concrete product supplier",35
+857,"Condiments supplier",35
+858,"Condominium complex",28
+859,"Condominium rental agency",28
+860,Confectionery,14
+861,"Confectionery wholesaler",32
+862,"Conference center",12
+863,Congregation,23
+864,"Conservation department",15
+865,"Conservative club",23
+866,"Conservative synagogue",23
+867,"Conservatory construction contractor",7
+868,"Conservatory of music",9
+869,"Conservatory supply & installation",7
+870,"Consignment shop",32
+871,"Construction and maintenance office",7
+872,"Construction company",7
+873,"Construction equipment supplier",35
+874,"Construction machine dealer",8
+875,"Construction machine rental service",7
+876,"Construction material wholesaler",32
+877,Consultant,27
+878,"Consumer advice center",7
+879,"Contact lenses supplier",35
+880,"Container service",37
+881,"Container supplier",35
+882,"Container terminal",37
+883,"Containers supplier",35
+884,"Contemporary Louisiana restaurant",14
+885,"Continental restaurant",14
+886,Contractor,7
+887,"Convenience store",32
+888,"Convention center",12
+889,"Convention information bureau",12
+890,Conveyancer,28
+891,"Cookie shop",14
+892,"Cooking class",9
+893,"Cooking school",9
+894,"Cooling plant",10
+895,"Cooperative bank",13
+896,"Copier repair service",31
+897,"Copper supplier",35
+898,Coppersmith,21
+899,"Copy shop",27
+900,"Copying supply store",32
+901,"Corporate campus",28
+902,"Corporate entertainment service",12
+903,"Corporate gift supplier",35
+904,"Corporate office",28
+905,"Correctional services department",15
+906,"Cosmetic dentist",22
+907,"Cosmetic products manufacturer",21
+908,"Cosmetic surgeon",22
+909,"Cosmetics and perfumes supplier",35
+910,"Cosmetics industry",21
+911,"Cosmetics store",32
+912,"Cosmetics wholesaler",32
+913,"Cosplay café",14
+914,"Costa Rican restaurant",14
+915,"Costume jewelry shop",32
+916,"Costume rental service",32
+917,"Costume store",32
+918,Cottage,28
+919,"Cottage rental",28
+920,"Cotton exporter",2
+921,"Cotton mill",21
+922,"Cotton supplier",35
+923,Council,15
+924,Counselor,27
+925,"Countertop contractor",7
+926,"Countertop store",32
+927,"Country club",34
+928,"Country food restaurant",14
+929,"Country house",28
+930,"Country park",20
+931,"County government office",15
+932,"Courier service",37
+933,"Court executive officer",27
+934,"Court reporter",27
+935,"Couscous restaurant",14
+936,"Couture store",32
+937,"Coworking space",28
+938,"Crab house",14
+939,"Craft store",32
+940,"Cramming school",9
+941,"Crane dealer",8
+942,"Crane rental agency",7
+943,"Crane service",7
+944,"Craniosacral therapy",17
+945,Creche,19
+946,"Credit counseling service",13
+947,"Credit reporting agency",13
+948,"Credit union",13
+949,"Cremation service",1
+950,"Creole restaurant",14
+951,Crêperie,14
+952,"Cricket club",34
+953,"Cricket ground",34
+954,"Cricket shop",34
+955,"Crime victim service",27
+956,"Criminal justice attorney",27
+957,"Croatian restaurant",14
+958,"Crop grower",2
+959,"Croquet club",34
+960,"Cruise agency",20
+961,"Cruise line company",20
+962,"Cruise terminal",20
+963,"Crushed stone supplier",35
+964,"Cuban restaurant",14
+965,"Culinary school",9
+966,"Cultural association",23
+967,"Cultural center",4
+968,"Cultural landmark",4
+969,"Cupcake shop",14
+970,"Cupra dealer",8
+971,"Cured ham bar",14
+972,"Cured ham store",14
+973,"Cured ham warehouse",14
+974,"Curling club",34
+975,"Curling hall",34
+976,"Currency exchange service",13
+977,"Curtain and upholstery cleaning service",19
+978,"Curtain store",32
+979,"Curtain supplier and maker",35
+980,"Custom confiscated goods store",32
+981,"Custom home builder",7
+982,"Custom label printer",21
+983,"Custom t-shirt store",32
+984,"Custom tailor",32
+985,"Customs broker",37
+986,"Customs consultant",27
+987,"Customs department",15
+988,"Customs office",15
+989,"Customs warehouse",37
+990,"Cutlery store",32
+991,"Cycle rickshaw stand",37
+992,"Cycling park",34
+993,"Czech restaurant",14
+994,"Dacia dealer",8
+995,"Daihatsu dealer",8
+996,Dairy,14
+997,"Dairy farm",2
+998,"Dairy farm equipment supplier",35
+999,"Dairy store",14
+1000,"Dairy supplier",35
+1001,"Dan Dan noodle restaurant",14
+1002,"Dance club",4
+1003,"Dance company",4
+1004,"Dance conservatory",9
+1005,"Dance hall",4
+1006,"Dance pavilion",4
+1007,"Dance restaurant",14
+1008,"Dance school",9
+1009,"Dance store",32
+1010,"Danish restaurant",14
+1011,"Dart bar",34
+1012,"Dart supply store",32
+1013,"Data entry service",27
+1014,"Data recovery service",27
+1015,"Database management company",36
+1016,"Dating service",33
+1017,"Day care center",19
+1018,"Day spa",6
+1019,"Deaf church",30
+1020,"Deaf service",33
+1021,"Dealer of Fiat Professional",8
+1022,"Debris removal service",24
+1023,"Debt collecting",13
+1024,"Debt collection agency",13
+1025,"Decal supplier",35
+1026,"Deck builder",7
+1027,Deli,14
+1028,"Delivery Chinese restaurant",14
+1029,"Delivery service",37
+1030,"Demolition contractor",7
+1031,"Jeans shop",32
+1032,"Dental clinic",22
+1033,"Dental hygienist",22
+1034,"Dental implants periodontist",22
+1035,"Dental implants provider",22
+1036,"Dental insurance agency",13
+1037,"Dental laboratory",17
+1038,"Dental radiology",17
+1039,"Dental school",9
+1040,"Dental supply store",32
+1041,Dentist,22
+1042,"Denture care center",17
+1043,"Department for Regional Development",15
+1044,"Department of education",15
+1045,"Department of finance",15
+1046,"Department of housing",15
+1047,"Department of motor vehicles",15
+1048,"Department of Public Safety",15
+1049,"Department of Social Services",15
+1050,"Department of Transportation",15
+1051,"Department store",32
+1052,"Dept of City Treasure",15
+1053,"Department of State Treasure",15
+1054,Dermatologist,22
+1055,"Desalination plant",10
+1056,"Design engineer",11
+1057,"Design institute",9
+1058,"Desktop publishing service",27
+1059,"Sweets and dessert buffet",14
+1060,"Dessert restaurant",14
+1061,"Dessert shop",14
+1062,"Detention center",15
+1063,Dhaba,14
+1064,"Diabetes center",17
+1065,"Diabetes equipment supplier",35
+1066,Diabetologist,22
+1067,"Diagnostic center",17
+1068,"Dialysis center",17
+1069,"Diamond buyer",1
+1070,"Diamond dealer",8
+1071,"Diaper service",19
+1072,"Diesel engine dealer",8
+1073,"Diesel engine repair service",31
+1074,"Diesel fuel supplier",35
+1075,Dietitian,17
+1076,"Digital printer",27
+1077,"Digital printing service",27
+1078,"Dim sum restaurant",14
+1079,Diner,14
+1080,"Dinner theater",4
+1081,"Direct mail advertising",27
+1082,"Dirt supplier",35
+1083,"Disability equipment supplier",35
+1084,"Disability services & support organization",33
+1085,"Disabled sports center",34
+1086,"Disc golf course",34
+1087,"Disciples of Christ Church",30
+1088,"Disco club",4
+1089,"Discount store",32
+1090,"Discount supermarket",32
+1091,"Display home centre",28
+1092,"Display stand manufacturer",21
+1093,"Disposable tableware supplier",35
+1094,"Distance learning center",9
+1095,Distillery,14
+1096,"Distribution service",37
+1097,"District attorney",27
+1098,"District council",15
+1099,"District government office",15
+1100,"District Justice",27
+1101,"District office",15
+1102,"Dive club",34
+1103,"Dive shop",34
+1104,"Diving center",34
+1105,"Diving contractor",7
+1106,"Divorce lawyer",27
+1107,"Divorce service",27
+1108,"DJ service",4
+1109,"DJ supply store",32
+1110,"Do-it-yourself shop",32
+1111,"Dock builder",7
+1112,Doctor,22
+1113,"Dodge dealer",8
+1114,"Dog breeder",26
+1115,"Dog cafe",14
+1116,"Dog day care center",26
+1117,"Dog park",26
+1118,"Dog trainer",26
+1119,"Dog walker",26
+1120,"Dogsled ride service",34
+1121,"Dojo restaurant",14
+1122,"Doll restoration service",4
+1123,"Doll store",32
+1124,"Dollar store",32
+1125,"Domestic abuse treatment center",33
+1126,"Domestic airport",37
+1127,"Dominican restaurant",14
+1128,"Donations center",23
+1129,"Doner kebab restaurant",14
+1130,"Donut shop",14
+1131,"Door manufacturer",21
+1132,"Door shop",32
+1133,"Door supplier",35
+1134,"Door warehouse",32
+1135,"Double glazing installer",7
+1136,Doula,17
+1137,"Down home cooking restaurant",14
+1138,"Drafting equipment supplier",35
+1139,"Drafting service",27
+1140,"Drainage service",19
+1141,"Drama school",9
+1142,"Drama theater",4
+1143,"Drawing lessons",4
+1144,"Dress and tuxedo rental service",32
+1145,"Dress store",32
+1146,Dressmaker,32
+1147,"Dried flower shop",32
+1148,"Dried seafood store",14
+1149,"Drilling contractor",7
+1150,"Drilling equipment supplier",35
+1151,"Drinking water fountain",19
+1152,"Drive-in movie theater",4
+1153,"Driver and vehicle licensing agency",15
+1154,"Driver’s license office",15
+1155,"Drivers license training school",9
+1156,"Driveshaft shop",21
+1157,"Driving school",9
+1158,"Driving test center",15
+1159,"Drone shop",32
+1160,"Drug testing service",17
+1161,"Drug store",17
+1162,"Drum school",9
+1163,"Drum store",32
+1164,"Dry cleaner",25
+1165,"Dry fruit store",32
+1166,"Dry ice supplier",35
+1167,"Dry wall contractor",7
+1168,"Dry wall supply store",32
+1169,"DS Automobiles dealer",8
+1170,"Ducati dealer",8
+1171,"Dude ranch",20
+1172,"Dump truck dealer",8
+1173,"Dumpling restaurant",14
+1174,"Dumpster rental service",24
+1175,"Durum restaurant",14
+1176,"Dutch restaurant",14
+1177,"Duty free store",32
+1178,"DVD store",32
+1179,"Dye store",32
+1180,Dyeworks,21
+1181,"Dynamometer supplier",35
+1182,"E-commerce agency",27
+1183,"E-commerce service",27
+1184,"Ear piercing service",25
+1185,"Earth works company",7
+1186,"East African restaurant",14
+1187,"East Javanese restaurant",14
+1188,"Eastern European restaurant",14
+1189,"Eastern Orthodox Church",30
+1190,"Eating disorder treatment center",17
+1191,"Eclectic restaurant",14
+1192,"Ecological park",20
+1193,"Ecologists association",23
+1194,"Economic consultant",27
+1195,"Economic development agency",15
+1196,"Ecuadorian restaurant",14
+1197,"Education center",9
+1198,"Educational consultant",9
+1199,"Educational institution",9
+1200,"Educational supply store",32
+1201,"Educational testing service",9
+1202,"EFTPOS equipment supplier",35
+1203,"Egg supplier",35
+1204,"Egyptian restaurant",14
+1205,"Elder law attorney",27
+1206,"Electric motor repair shop",31
+1207,"Electric motor store",32
+1208,"Electric utility company",10
+1209,"Electrical equipment manufacturer",21
+1210,"Electric vehicle charging station",21
+1211,"Electric vehicle charging station contractor",21
+1212,"Electrical appliance wholesaler",32
+1213,"Electrical engineer",11
+1214,"Electrical equipment supplier",35
+1215,"Electrical installation service",24
+1216,"Electrical repair shop",31
+1217,"Electrical substation",10
+1218,"Electrical supply store",32
+1219,"Electrical wholesaler",32
+1220,Electrician,19
+1221,"Electrolysis hair removal service",25
+1222,"Electronic engineer",11
+1223,"Electronic parts supplier",35
+1224,"Electronics accessories wholesaler",32
+1225,"Electronics company",32
+1226,"Electronics engineer",11
+1227,"Electronics exporter",21
+1228,"Electronics hire shop",32
+1229,"Electronics manufacturer",21
+1230,"Electronics repair shop",31
+1231,"Electronics store",32
+1232,"Electronics vending machine",32
+1233,"Electronics wholesaler",32
+1234,"Elementary school",9
+1235,"Elevator manufacturer",7
+1236,"Elevator service",7
+1237,Embassy,15
+1238,"Embossing service",27
+1239,"Embroidery service",27
+1240,"Embroidery shop",32
+1241,"Emergency call booth",15
+1242,"Emergency care physician",22
+1243,"Emergency care service",17
+1244,"Emergency dental service",17
+1245,"Emergency locksmith service",19
+1246,"Emergency management ministry",15
+1247,"Emergency room",17
+1248,"Emergency training",9
+1249,"Emergency training school",9
+1250,"Emergency veterinarian service",26
+1251,"Employment attorney",27
+1252,Endocrinologist,22
+1253,Endodontist,22
+1254,Endoscopist,17
+1255,"Energy equipment and solutions",10
+1256,"Energy supplier",35
+1257,"Engine rebuilding service",21
+1258,Engineer,11
+1259,"Engineering consultant",11
+1260,"Engineering school",9
+1261,"English language camp",9
+1262,"English language instructor",9
+1263,"English language school",9
+1264,"English restaurant",14
+1265,Engraver,4
+1266,Entertainer,4
+1267,"Entertainment agency",4
+1268,"Envelope supplier",35
+1269,"Environment office",27
+1270,"Environment renewable natural resources",1
+1271,"Environmental consultant",27
+1272,"Environmental engineer",11
+1273,"Environmental health service",33
+1274,"Environmental organization",23
+1275,"Environmental protection organization",23
+1276,"Episcopal church",30
+1277,"Equestrian club",34
+1278,"Equestrian facility",34
+1279,"Equestrian store",32
+1280,"Equipment exporter",21
+1281,"Equipment importer",21
+1282,"Equipment rental agency",32
+1283,"Equipment supplier",35
+1284,"Eritrean restaurant",14
+1285,"Erotic massage",6
+1286,"Escape room center",4
+1287,"Escrow service",27
+1288,"Espresso bar",14
+1289,"Estate appraiser",28
+1290,"Estate liquidator",28
+1291,"Estate planning attorney",27
+1292,"Ethiopian restaurant",14
+1293,"Ethnographic museum",4
+1294,"European restaurant",14
+1295,"Evangelical church",30
+1296,"Evening dress rental service",32
+1297,"Evening school",9
+1298,"Event management company",12
+1299,"Event planner",12
+1300,"Event technology service",12
+1301,"Event ticket seller",12
+1302,"Event venue",12
+1303,"Excavating contractor",7
+1304,"Executive suite rental agency",28
+1305,Executor,27
+1306,Exhibit,4
+1307,"Exhibition and trade centre",27
+1308,"Exhibition planner",12
+1309,Exporter,27
+1310,"Extended stay hotel",20
+1311,"Extremaduran restaurant",14
+1312,"Eye care center",17
+1313,"Eyebrow bar",6
+1314,"Eyelash salon",6
+1315,"Fabric product manufacturer",21
+1316,"Fabric store",32
+1317,"Fabric wholesaler",32
+1318,"Fabrication engineer",11
+1319,"Facial spa",6
+1320,"Factory equipment supplier",35
+1321,"Faculty of arts",9
+1322,"Faculty of law",9
+1323,"Faculty of pharmacy",9
+1324,"Faculty of psychology",9
+1325,"Faculty of science",9
+1326,"Faculty of sports",9
+1327,"Office of a fair trade organization",15
+1328,Fairground,12
+1329,"Falafel restaurant",14
+1330,"Family counselor",17
+1331,"Family day care service",19
+1332,"Family law attorney",27
+1333,"Family planning center",17
+1334,"Family planning counselor",17
+1335,"Family practice physician",22
+1336,"Family restaurant",14
+1337,"Family service center",19
+1338,Farm,2
+1339,"Farm bureau",2
+1340,"Farm equipment repair service",31
+1341,"Farm equipment supplier",35
+1342,"Farm household tour",2
+1343,"Farm school",9
+1344,"Farm shop",2
+1345,"Farmers’ market",2
+1346,Farmstay,20
+1347,"Fashion accessories store",32
+1348,"Fashion design school",9
+1349,"Fashion designer",4
+1350,"Fast food restaurant",14
+1351,"Fastener supplier",35
+1352,Favela,23
+1353,"Fax service",27
+1354,"Federal Agency for Technical Relief",15
+1355,"Federal credit union",13
+1356,"Federal government office",15
+1357,"Federal police",15
+1358,"Federal reserve bank",13
+1359,"Feed manufacturer",2
+1360,"Animal feed store",2
+1361,"Felt boots store",32
+1362,"Fence contractor",7
+1363,"Fence supply store",32
+1364,"Fencing salon",34
+1365,"Fencing school",9
+1366,"Feng shui consultant",19
+1367,"Feng shui shop",32
+1368,"Ferrari dealer",8
+1369,"Ferris wheel",4
+1370,"Ferry service",37
+1371,"Fertility clinic",17
+1372,"Fertility physician",22
+1373,"Fertilizer supplier",35
+1374,Festival,12
+1375,"Festival hall",12
+1376,"Fiat dealer",8
+1377,"Fiber optic products supplier",35
+1378,"Fiberglass repair service",31
+1379,"Fiberglass supplier",35
+1380,"Figurine shop",32
+1381,"Filipino restaurant",14
+1382,"Film and photograph library",4
+1383,"Film production company",4
+1384,"Filtration plant",32
+1385,"Finance broker",13
+1386,"Financial audit",13
+1387,"Financial consultant",13
+1388,"Financial institution",13
+1389,"Financial planner",13
+1390,"Fine dining restaurant",14
+1391,"Fingerprinting service",27
+1392,"Finishing materials supplier",35
+1393,"Finnish restaurant",14
+1394,"Fire alarm supplier",35
+1395,"Fire damage restoration service",7
+1396,"Fire department equipment supplier",35
+1397,"Fire fighters academy",9
+1398,"Fire protection consultant",27
+1399,"Fire protection equipment supplier",35
+1400,"Fire protection service",27
+1401,"Fire protection system supplier",35
+1402,"Fire station",15
+1403,"Firearms academy",9
+1404,"Fireplace manufacturer",18
+1405,"Fireplace store",18
+1406,"Firewood supplier",35
+1407,"Fireworks store",12
+1408,"Fireworks supplier",35
+1409,"First aid station",17
+1410,"Fish & chips restaurant",14
+1411,"Fish and chips takeaway",14
+1412,"Fish farm",2
+1413,"Fish processing",2
+1414,"Fish restaurant",14
+1415,"Fish spa",6
+1416,"Fish store",32
+1417,"Fishing camp",34
+1418,"Fishing charter",34
+1419,"Fishing club",34
+1420,"Fishing pier",34
+1421,"Fishing pond",34
+1422,"Fishing store",32
+1423,"Fitness center",34
+1424,"Exercise equipment store",32
+1425,"Fitness equipment wholesaler",32
+1426,"Fitted furniture supplier",35
+1427,"Fixed-base operator",37
+1428,"Flag store",32
+1429,"Flamenco dance store",4
+1430,"Flamenco school",4
+1431,"Flamenco theater",4
+1432,"Flavours, fragrances, and aroma supplier",35
+1433,"Flea market",32
+1434,"Flight school",9
+1435,"Floating market",32
+1436,"Floor refinishing service",7
+1437,"Floor sanding and polishing service",7
+1438,"Flooring contractor",7
+1439,"Flooring store",32
+1440,"Floridian restaurant",14
+1441,Florist,32
+1442,"Flour mill",21
+1443,"Flower delivery",32
+1444,"Flower designer",32
+1445,"Flower market",32
+1446,"FMCG goods wholesaler",32
+1447,"FMCG manufacturer",21
+1448,"Foam rubber producer",21
+1449,"Foam rubber supplier",35
+1450,"Folk high school",9
+1451,"Fondue restaurant",14
+1452,"Food and beverage consultant",14
+1453,"Food and beverage exporter",14
+1454,"Food bank",23
+1455,"Food broker",14
+1456,"Food court",14
+1457,"Food machinery supplier",35
+1458,"Food manufacturer",21
+1459,"Food manufacturing supply",21
+1460,"Food processing company",21
+1461,"Food processing equipment",21
+1462,"Food producer",2
+1463,"Food products supplier",35
+1464,"Food seasoning manufacturer",21
+1465,"Foot bath",6
+1466,"Foot care",17
+1467,"Foot massage parlor",6
+1468,"Football club",34
+1469,"American football field",34
+1470,"Ford dealer",8
+1471,"Foreclosure service",28
+1472,"Foreign consulate",15
+1473,"Foreign exchange students organization",9
+1474,"Foreign languages program school",9
+1475,"Foreign trade consultant",27
+1476,"Foreman builders association",7
+1477,"Forensic consultant",27
+1478,"Forestry service",2
+1479,"Forklift dealer",8
+1480,"Forklift rental service",21
+1481,"Formal wear store",32
+1482,Fortress,6
+1483,"Fortune telling services",4
+1484,"Foster care service",19
+1485,Foundation,23
+1486,Foundry,21
+1487,"Fountain contractor",7
+1488,"Foursquare church",30
+1489,"Franconian restaurant",14
+1490,"Fraternal organization",23
+1491,"Free clinic",17
+1492,"Free parking lot",37
+1493,"Freestyle wrestling",34
+1494,"Freight forwarding service",37
+1495,"French language school",9
+1496,"French restaurant",14
+1497,"French steakhouse restaurant",14
+1498,"Fresh food market",32
+1499,"Fried chicken takeaway",14
+1500,"Friends church",30
+1501,Frituur,14
+1502,"Frozen dessert supplier",35
+1503,"Frozen food manufacturer",14
+1504,"Frozen food store",14
+1505,"Frozen yogurt shop",14
+1506,"Fruit and vegetable processing",2
+1507,"Fruit and vegetable store",32
+1508,"Fruit and vegetable wholesaler",32
+1509,"Fruit parlor",14
+1510,"Fruit wholesaler",32
+1511,"Fruits wholesaler",32
+1512,"Fujian restaurant",14
+1513,"Fuel supplier",35
+1514,"Fugu restaurant",14
+1515,"Full dress rental service",32
+1516,"Full Gospel church",30
+1517,"Function room facility",12
+1518,"Fund management company",13
+1519,"Funeral celebrant service",1
+1520,"Funeral director",1
+1521,"Funeral home",1
+1522,"Fur coat shop",32
+1523,"Fur manufacturer",21
+1524,"Fur service",32
+1525,"Furnace parts supplier",35
+1526,"Furnace repair service",31
+1527,"Furnace store",18
+1528,"Furnished apartment building",28
+1529,"Furniture accessories",18
+1530,"Furniture accessories supplier",35
+1531,"Furniture maker",21
+1532,"Furniture manufacturer",21
+1533,"Furniture rental service",18
+1534,"Furniture repair shop",31
+1535,"Furniture store",32
+1536,"Furniture wholesaler",32
+1537,"Fusion restaurant",14
+1538,"Futon store",18
+1539,"Futsal court",34
+1540,"Galician restaurant",14
+1541,"Gambling house",4
+1542,"Gambling instructor",9
+1543,"Game store",32
+1544,"Garage builder",7
+1545,"Garage door supplier",35
+1546,"Garbage collection service",33
+1547,"Garbage dump",1
+1548,"Garbage dump service",33
+1549,Garden,18
+1550,"Garden building supplier",35
+1551,"Garden center",18
+1552,"Garden furniture shop",18
+1553,Gardener,18
+1554,"Garment exporter",21
+1555,"Gas company",10
+1556,"Gas cylinders supplier",35
+1557,"Gas engineer",7
+1558,"Gas installation service",7
+1559,"Gas logs supplier",35
+1560,"Gas shop",18
+1561,"Gas station",21
+1562,Gasfitter,7
+1563,"Gasket manufacturer",21
+1564,Gastroenterologist,22
+1565,"Gastrointestinal surgeon",22
+1566,Gastropub,14
+1567,"Gated community",28
+1568,"Gay & lesbian organization",23
+1569,"Gay bar",4
+1570,"Gay night club",4
+1571,"Gay sauna",6
+1572,"Gazebo builder",7
+1573,Gemologist,32
+1574,Genealogist,27
+1575,"General contractor",7
+1576,"General education school",9
+1577,"General hospital",17
+1578,"General practice attorney",27
+1579,"General practitioner",17
+1580,"General register office",15
+1581,"General store",32
+1582,"Generator shop",18
+1583,"Genesis dealer",8
+1584,"Geography and history faculty",9
+1585,"Geological research company",1
+1586,"Geological service",1
+1587,Geologist,1
+1588,"Georgian restaurant",14
+1589,"Geotechnical engineer",11
+1590,Geriatrician,22
+1591,"German language school",9
+1592,"German restaurant",14
+1593,"Ghost town",19
+1594,"Gift basket store",32
+1595,"Gift shop",32
+1596,"Gift wrap store",32
+1597,"Girl bar",4
+1598,"Girls’ high school",9
+1599,"Glass & mirror shop",18
+1600,"Glass block supplier",35
+1601,"Glass blower",4
+1602,"Glass cutting service",18
+1603,"Glass engraver",4
+1604,"Glass etching service",4
+1605,"Glass industry",21
+1606,"Glass manufacturer",21
+1607,"Glass merchant",18
+1608,"Glass repair service",31
+1609,"Glass shop",18
+1610,"Glasses repair service",31
+1611,"Glassware manufacturer",21
+1612,"Glassware store",18
+1613,"Glassware wholesaler",32
+1614,Glazier,7
+1615,"Gluten-free restaurant",14
+1616,"GMC dealer",8
+1617,"Go-kart track",34
+1618,"Goan restaurant",14
+1619,"Gold dealer",8
+1620,"Gold mining company",21
+1621,"Goldfish store",26
+1622,Goldsmith,32
+1623,"Golf cart dealer",8
+1624,"Golf club",34
+1625,"Golf course",34
+1626,"Golf course builder",7
+1627,"Golf driving range",34
+1628,"Golf instructor",34
+1629,"Golf shop",32
+1630,"Gospel church",30
+1631,"Gourmet grocery store",32
+1632,"Government college",9
+1633,"Government economic program",15
+1634,"Government hospital",17
+1635,"Government office",15
+1636,"Government ration shop",32
+1637,"Government school",9
+1638,"GPS supplier",35
+1639,"Graduate school",9
+1640,"Graffiti removal service",25
+1641,"Grain elevator",2
+1642,"Grammar school",9
+1643,"Granite supplier",35
+1644,"Gravel pit",7
+1645,"Gravel plant",7
+1646,"Greco-Roman wrestling",34
+1647,"Greek Orthodox church",30
+1648,"Greek restaurant",14
+1649,"Green energy supplier",35
+1650,Greengrocer,32
+1651,Greenhouse,18
+1652,"Greeting card shop",32
+1653,"Greyhound stadium",34
+1654,"Grill store",18
+1655,"Grocery delivery service",14
+1656,"Grocery store",32
+1657,"Ground self defense force",15
+1658,"Group home",17
+1659,"Guardia Civil",15
+1660,"Guardia Di Finanza Police",15
+1661,"Guatemalan restaurant",14
+1662,"Guest house",20
+1663,"Guizhou restaurant",14
+1664,"Guitar instructor",9
+1665,"Guitar store",32
+1666,"Gujarati restaurant",14
+1667,"Gun club",34
+1668,"Gun shop",32
+1669,"Offal barbecue restaurant",14
+1670,"Gutter cleaning service",19
+1671,Gym,34
+1672,"Gymnasium school",9
+1673,"Gymnastics center",34
+1674,"Gymnastics club",34
+1675,Obstetrician-gynecologist,22
+1676,Gynecologist,22
+1677,"Gypsum product supplier",35
+1678,"Gyro restaurant",14
+1679,Haberdashery,32
+1680,"Hair extension technician",6
+1681,"Hair extensions supplier",35
+1682,"Hair removal service",6
+1683,"Hair replacement service",6
+1684,"Hair salon",6
+1685,"Hair transplantation clinic",17
+1686,"Haitian restaurant",14
+1687,"Hakka restaurant",14
+1688,"Halal restaurant",14
+1689,"Haleem restaurant",14
+1690,"Halfway house",17
+1691,"Ham shop",14
+1692,"Hamburger restaurant",14
+1693,Hammam,16
+1694,"Hand surgeon",22
+1695,"Handbags shop",32
+1696,"Handball club",34
+1697,"Handball court",34
+1698,"Handicapped transportation service",37
+1699,Handicraft,4
+1700,"Handicraft exporter",21
+1701,"Handicraft fair",12
+1702,"Handicraft museum",4
+1703,"Handicraft school",9
+1704,"Handicrafts wholesaler",32
+1705,Handyman/Handywoman/Handyperson,19
+1706,"Hang gliding center",34
+1707,"Hardware store",32
+1708,"Hardware training institute",9
+1709,"Harley-Davidson dealer",8
+1710,"Hat shop",32
+1711,"Haunted house",4
+1712,"Hauptschule (lower-tier secondary school)",9
+1713,"Haute couture fashion house",32
+1714,"Haute French restaurant",14
+1715,"Hawaiian goods store",32
+1716,"Hawaiian restaurant",14
+1717,"Hawker centre",14
+1718,"Hawker stall",14
+1719,"Hay supplier",35
+1720,"Head start center",9
+1721,"Health and beauty shop",32
+1722,"Health consultant",17
+1723,"Health counselor",17
+1724,"Health food restaurant",14
+1725,"Health food store",32
+1726,"Health insurance agency",13
+1727,"Health resort",20
+1728,"Health spa",16
+1729,"Hearing aid repair service",31
+1730,"Hearing aid store",17
+1731,"Heart hospital",17
+1732,"Heating contractor",7
+1733,"Heating equipment supplier",35
+1734,"Heating oil supplier",35
+1735,"Height works",7
+1736,"Helicopter charter",20
+1737,"Helicopter tour agency",20
+1738,Heliport,20
+1739,"Helium gas supplier",35
+1740,Helpline,23
+1741,Hematologist,22
+1742,Hepatologist,22
+1743,"Herb shop",32
+1744,"Herbal medicine store",32
+1745,Herbalist,17
+1746,"Heritage building",1
+1747,"Heritage museum",4
+1748,"Heritage preservation",1
+1749,"Heritage railroad",37
+1750,"High ropes course",34
+1751,"High school",9
+1752,"Higher secondary school",9
+1753,"Highway patrol",15
+1754,"Hiking area",34
+1755,"Hindu priest",30
+1756,"Hindu temple",30
+1757,"Hip hop dance class",4
+1758,"Hispanic church",30
+1759,"Historical landmark",20
+1760,"Historical place museum",4
+1761,"Historical society",23
+1762,"History museum",4
+1763,"HIV testing center",17
+1764,"Hoagie restaurant",14
+1765,"Hobby store",32
+1766,"Hockey club",34
+1767,"Hockey field",34
+1768,"Hockey rink",34
+1769,"Hockey supply store",32
+1770,"Holding company",27
+1771,"Holiday apartment rental",20
+1772,"Holiday home",20
+1773,"Holistic medicine practitioner",17
+1774,"Home automation company",19
+1775,"Home builder",7
+1776,"Home cinema installation",19
+1777,"Home goods store",32
+1778,"Home hairdresser",6
+1779,"Home health care service",17
+1780,"Home help",19
+1781,"Home help service agency",19
+1782,"Home improvement store",32
+1783,"Home inspector",28
+1784,"Home insurance agency",13
+1785,"Home theater store",32
+1786,"Homekill service",2
+1787,"Homeless service",33
+1788,"Homeless shelter",33
+1789,Homeopath,22
+1790,"Homeopathic pharmacy",17
+1791,"Homeowners’ association",28
+1792,"Honda dealer",8
+1793,"Honduran restaurant",14
+1794,"Honey farm",2
+1795,"Cha chaan teng (Hong Kong-style cafe)",14
+1796,"Hong Kong style fast food restaurant",14
+1797,"Hookah bar",14
+1798,"Hookah store",32
+1799,"Horse boarding stable",26
+1800,"Horse breeder",26
+1801,"Horse rental service",26
+1802,"Horse riding field",26
+1803,"Horse riding school",9
+1804,"Horse trailer dealer",8
+1805,"Horse trainer",26
+1806,"Horseback riding service",26
+1807,"Horse transport supplier",35
+1808,"Horseshoe smith",26
+1809,"Horsestable studfarm",26
+1810,"Hose supplier",35
+1811,Hospice,17
+1812,Hospital,17
+1813,"Hospital equipment and supplies",35
+1814,"Hospital department",17
+1815,"Hospitality and tourism school",9
+1816,"Hospitality high school",9
+1817,"Host club",4
+1818,Hostel,20
+1819,"Hot bedstone spa",16
+1820,"Hot dog restaurant",14
+1821,"Hot dog stand",14
+1822,"Hot pot restaurant",14
+1823,"Hot spring hotel",20
+1824,"Hot tub repair service",31
+1825,"Hot tub store",18
+1826,"Hot water system supplier",35
+1827,Hotel,20
+1828,"Hotel management school",9
+1829,"Hotel supply store",32
+1830,"House cleaning service",19
+1831,"House clearance service",19
+1832,"House sitter",19
+1833,"House sitter agency",19
+1834,"Houseboat rental service",20
+1835,"Household chemicals supplier",35
+1836,"Household goods wholesaler",32
+1837,"Housing association",28
+1838,"Housing authority",15
+1839,"Housing complex",28
+1840,"Housing cooperative",28
+1841,"Housing development",28
+1842,"Housing society",28
+1843,"Housing utility company",10
+1844,"Hua gong shop",32
+1845,"Hua niao market place",32
+1846,"Hub cap supplier",35
+1847,"Human resource consulting",27
+1848,"Hunan restaurant",14
+1849,"Hungarian restaurant",14
+1850,"Hunting and fishing store",34
+1851,"Hunting area",34
+1852,"Hunting club",34
+1853,"Hunting preserve",34
+1854,"Hunting store",32
+1855,"HVAC contractor",19
+1856,"Hyderabadi restaurant",14
+1857,"Hydraulic engineer",11
+1858,"Hydraulic equipment supplier",35
+1859,"Hydraulic repair service",31
+1860,"Hydroelectric power plant",10
+1861,"Hydroponics equipment supplier",35
+1862,"Hygiene articles wholesaler",32
+1863,"Hygiene station",17
+1864,"Hyperbaric medicine physician",22
+1865,Hypermarket,32
+1866,"Hypnotherapy service",17
+1867,"Hyundai dealer",8
+1868,"Ice cream equipment supplier",35
+1869,"Ice cream shop",14
+1870,"Ice hockey club",34
+1871,"Ice skating club",34
+1872,"Ice skating instructor",34
+1873,"Ice skating rink",34
+1874,"Ice supplier",35
+1875,"Icelandic restaurant",14
+1876,"ICSE school",9
+1877,"Idol manufacturer",4
+1878,"Ikan bakar restaurant",14
+1879,"Image consultant",6
+1880,"IMAX theater",4
+1881,"Immigration & naturalization service",15
+1882,"Immigration attorney",27
+1883,"Immigration detention centre",15
+1884,Immunologist,22
+1885,"Impermeabilization service",24
+1886,"Import export company",27
+1887,Importer,27
+1888,"Incense supplier",35
+1889,"Incineration plant",10
+1890,"Income protection insurance agency",13
+1891,"Income tax help association",13
+1892,"Indian grocery store",32
+1893,"Indian Motorcycle dealer",8
+1894,"Indian Muslim restaurant",14
+1895,"Indian restaurant",14
+1896,"Indian sizzler restaurant",14
+1897,"Indian sweets shop",14
+1898,"Indian takeaway",14
+1899,"Indonesian restaurant",14
+1900,"Indoor cycling",34
+1901,"Indoor golf course",34
+1902,"Indoor playground",4
+1903,"Indoor snowcenter",4
+1904,"Indoor swimming pool",34
+1905,"Industrial chemicals wholesaler",32
+1906,"Industrial consultant",27
+1907,"Industrial door supplier",35
+1908,"Industrial engineer",11
+1909,"Industrial engineers association",1
+1910,"Industrial equipment supplier",35
+1911,"Industrial framework supplier",35
+1912,"Industrial gas supplier",35
+1913,"Industrial real estate agency",28
+1914,"Industrial supermarket",32
+1915,"Industrial technical engineers association",1
+1916,"Industrial vacuum equipment supplier",35
+1917,"Infectious disease physician",22
+1918,"Infiniti dealer",8
+1919,"Information bureau",15
+1920,"Information services",27
+1921,Inn,20
+1922,"Insolvency service",27
+1923,"Institute of Geography and Statistics",9
+1924,"Instrumentation engineer",11
+1925,"Insulation contractor",7
+1926,"Insulation materials store",18
+1927,"Insulator supplier",35
+1928,"Insurance agency",13
+1929,"Insurance attorney",27
+1930,"Insurance broker",13
+1931,"Insurance company",13
+1932,"Insurance school",9
+1933,"Intellectual property registry",27
+1934,Intensivist,22
+1935,"Interior architect office",3
+1936,"Interior construction contractor",7
+1937,"Interior door shop",18
+1938,"Interior fitting contractor",7
+1939,"Interior plant service",18
+1940,"Internal medicine ward",17
+1941,"International airport",37
+1942,"International school",9
+1943,"International trade consultant",27
+1944,"Internet cafe",4
+1945,"Internet marketing service",27
+1946,"Internet service provider",32
+1947,"Internet shop",32
+1948,Internist,22
+1949,"Investment bank",13
+1950,"Investment company",13
+1951,"Investment service",13
+1952,"Invitation printing service",27
+1953,"Irish goods store",32
+1954,"Irish pub",14
+1955,"Irish restaurant",14
+1956,"Iron steel contractor",7
+1957,"Iron ware dealer",8
+1958,"Iron works",21
+1959,"Irrigation equipment supplier",35
+1960,"Israeli restaurant",14
+1961,"Isuzu dealer",8
+1962,"Italian grocery store",32
+1963,"Italian restaurant",14
+1964,"Institute of technology",9
+1965,"Jaguar dealer",8
+1966,"Jain temple",30
+1967,"Jamaican restaurant",14
+1968,"Janitorial equipment supplier",35
+1969,"Janitorial service",24
+1970,"Authentic Japanese restaurant",14
+1971,"Japanese cheap sweets shop",14
+1972,"Japanese confectionery shop",14
+1973,"Japanese curry restaurant",14
+1974,"Japanese delicatessen",14
+1975,"Japanese grocery store",32
+1976,"Ryotei restaurant",14
+1977,"Izakaya restaurant",14
+1978,"Japanese language instructor",9
+1979,"Japanese regional restaurant",14
+1980,"Japanese restaurant",14
+1981,"Japanese steakhouse",14
+1982,"Japanese sweets restaurant",14
+1983,"Japanized western restaurant",14
+1984,"Javanese restaurant",14
+1985,"Jazz club",4
+1986,"Jeep dealer",8
+1987,"Jehovah’s Witness Kingdom Hall",30
+1988,Jeweler,32
+1989,"Jewelry appraiser",32
+1990,"Jewelry buyer",32
+1991,"Jewelry engraver",32
+1992,"Jewelry equipment supplier",35
+1993,"Jewelry exporter",32
+1994,"Jewelry manufacturer",32
+1995,"Jewelry repair service",31
+1996,"Jewelry store",32
+1997,"Jewish restaurant",14
+1998,"Jiangsu restaurant",14
+1999,Joiner,7
+2000,"Judicial auction",27
+2001,"Judicial scrivener",27
+2002,"Judo club",34
+2003,"Judo school",9
+2004,"Juice shop",14
+2005,"Jujitsu school",34
+2006,"Junior college",9
+2007,"Junk dealer",8
+2008,"Junk store",32
+2009,Junkyard,21
+2010,"Justice department",15
+2011,"Jute exporter",27
+2012,"Jute mill",21
+2013,"Juvenile detention center",27
+2014,"Kabaddi club",34
+2015,"Kaiseki restaurant",14
+2016,"Kalle pache restaurant",14
+2017,Karaoke,4
+2018,"Karaoke bar",4
+2019,"Karaoke equipment rental service",4
+2020,"Karate club",34
+2021,"Karate school",9
+2022,"Karma dealer",8
+2023,"Karnataka restaurant",14
+2024,"Kashmiri restaurant",14
+2025,"Kawasaki motorcycle dealer",8
+2026,"Kazakhstani restaurant",14
+2027,"Kebab shop",14
+2028,Kennel,26
+2029,"Kerala restaurant",14
+2030,"Kerosene supplier",35
+2031,"Key duplication service",27
+2032,"Kia dealer",8
+2033,"Kickboxing school",34
+2034,"Kilt shop and hire",32
+2035,"Kimono store",32
+2036,Kindergarten,9
+2037,Kinesiologist,17
+2038,Kiosk,32
+2039,"Kitchen furniture store",18
+2040,"Kitchen remodeler",7
+2041,"Kitchen supply store",18
+2042,"Kite shop",32
+2043,"Knife manufacturing",21
+2044,"Knife store",32
+2045,"Knit shop",32
+2046,"Knitting instructor",9
+2047,"Knitwear manufacturer",21
+2048,"Kofta restaurant",14
+2049,"Konkani restaurant",14
+2050,"Korean barbecue restaurant",14
+2051,"Korean beef restaurant",14
+2052,"Korean church",30
+2053,"Korean grocery store",32
+2054,"Korean restaurant",14
+2055,"Korean rib restaurant",14
+2056,"Koshari restaurant",14
+2057,"Kosher grocery store",14
+2058,"Kosher restaurant",14
+2059,"Kung fu school",34
+2060,"Kushiyaki restaurant",14
+2061,"Kyoto style Japanese restaurant",14
+2062,"Labor relations attorney",27
+2063,"Labor union",27
+2064,Laboratory,17
+2065,"Laboratory equipment supplier",35
+2066,"Ladder supplier",35
+2067,"Lamborghini dealer",8
+2068,"Laminating equipment supplier",35
+2069,"Lamination service",27
+2070,"Lamp repair service",31
+2071,"Lamp shade supplier",35
+2072,"Lancia dealer",8
+2073,"Land allotment",28
+2074,"Land planning authority",15
+2075,"Land reform institute",15
+2076,"Land Rover dealer",8
+2077,"Land surveying office",7
+2078,"Land surveyor",7
+2079,"Landscape architect",3
+2080,"Landscape designer",18
+2081,"Landscape lighting designer",18
+2082,Landscaper,18
+2083,"Landscaping supply store",18
+2084,"Language school",9
+2085,"Laotian restaurant",14
+2086,Lapidary,4
+2087,"Laser cutting service",21
+2088,"Laser equipment supplier",35
+2089,"Laser hair removal service",6
+2090,"Laser tag center",4
+2091,"Lasik surgeon",22
+2092,"Latin American restaurant",14
+2093,Laundromat,25
+2094,Laundry,25
+2095,"Laundry service",25
+2096,"Law book store",32
+2097,"Law firm",27
+2098,"Law library",27
+2099,"Law school",9
+2100,"Lawn bowls club",34
+2101,"Lawn care service",18
+2102,"Lawn equipment rental service",18
+2103,"Lawn irrigation equipment supplier",35
+2104,"Lawn mower repair service",31
+2105,"Lawn mower store",18
+2106,"Lawn sprinkler system contractor",18
+2107,Lawyer,27
+2108,"Lawyers association",27
+2109,"Leagues club",34
+2110,"Learner driver training area",21
+2111,"Learning center",9
+2112,"Leasing service",13
+2113,"Leather cleaning service",19
+2114,"Leather coats store",32
+2115,"Leather exporter",27
+2116,"Leather goods manufacturer",21
+2117,"Leather goods store",32
+2118,"Leather goods supplier",35
+2119,"Leather goods wholesaler",32
+2120,"Leather repair service",31
+2121,"Leather wholesaler",32
+2122,"Lebanese restaurant",14
+2123,"Lechon restaurant",14
+2124,"Legal affairs bureau",15
+2125,"Legal aid office",27
+2126,"Legal services",27
+2127,"Leisure centre",34
+2128,"Lexus dealer",8
+2129,Library,9
+2130,"License bureau",15
+2131,"License plate frames supplier",35
+2132,Lido,4
+2133,"Life coach",25
+2134,"Life insurance agency",13
+2135,"Light bulb supplier",35
+2136,"Lighting consultant",18
+2137,"Lighting contractor",18
+2138,"Lighting manufacturer",18
+2139,"Lighting store",18
+2140,"Lighting wholesaler",32
+2141,"Ligurian restaurant",14
+2142,"Limousine service",37
+2143,"Lincoln dealer",8
+2144,"Line marking service",27
+2145,"Linens store",32
+2146,"Lingerie manufacturer",21
+2147,"Lingerie store",32
+2148,"Lingerie wholesaler",32
+2149,"Linoleum store",18
+2150,Liquidator,27
+2151,"Liquor store",14
+2152,"Liquor wholesaler",32
+2153,"Literacy program",9
+2154,"Lithuanian restaurant",14
+2155,"Little league club",34
+2156,"Little league field",34
+2157,"Live music bar",4
+2158,"Live music venue",4
+2159,"Livery company",37
+2160,"Livestock auction house",2
+2161,"Livestock breeder",2
+2162,"Livestock dealer",8
+2163,"Livestock producer",2
+2164,"Loan agency",13
+2165,"Local government office",15
+2166,"Local history museum",4
+2167,"Local medical services",17
+2168,"Lock Store",18
+2169,"Locks supplier",35
+2170,Locksmith,18
+2171,Lodge,20
+2172,Lodging,20
+2173,"Log cabins",7
+2174,"Log home builder",7
+2175,"Logging contractor",7
+2176,"Logistics service",27
+2177,"Lombardian restaurant",14
+2178,"Loss adjuster",13
+2179,"Lost property office",15
+2180,"Lottery retailer",4
+2181,"Lottery shop",4
+2182,Lounge,4
+2183,"Love hotel",20
+2184,"Low emission zone",15
+2185,"Low income housing program",33
+2186,"LPG conversion",21
+2187,"Luggage repair service",31
+2188,"Luggage storage facility",20
+2189,"Luggage store",32
+2190,"Luggage wholesaler",32
+2191,"Lumber store",18
+2192,"Lunch restaurant",14
+2193,"Lutheran church",30
+2194,Lyceum,9
+2195,"Lymph drainage therapist",17
+2196,"Machine construction",21
+2197,"Machine knife supplier",35
+2198,"Machine maintenance",21
+2199,"Machine repair service",31
+2200,"Machine shop",21
+2201,"Machine workshop",21
+2202,"Machinery parts manufacturer",21
+2203,"Machining manufacturer",21
+2204,"Macrobiotic restaurant",14
+2205,"Madrilian restaurant",14
+2206,"Magazine store",32
+2207,"Magic store",32
+2208,Magician,4
+2209,"Mahjong house",4
+2210,"Mailbox rental service",27
+2211,"Mailbox supplier",35
+2212,"Mailing machine supplier",35
+2213,"Mailing service",27
+2214,"Main customs office",15
+2215,"Majorcan restaurant",14
+2216,Makerspace,4
+2217,"Make-up artist",25
+2218,"Malaysian restaurant",14
+2219,"Maltese restaurant",14
+2220,"Mammography service",17
+2221,"Manado restaurant",14
+2222,"Management school",9
+2223,"Mandarin restaurant",14
+2224,"Manor house",20
+2225,"Manufactured home transporter",37
+2226,Manufacturer,21
+2227,"Maori organization",23
+2228,"Map store",32
+2229,"Mapping service",27
+2230,Marae,23
+2231,"Marathi restaurant",14
+2232,"Marble contractor",7
+2233,"Marble supplier",35
+2234,"Marche restaurant",14
+2235,Marina,29
+2236,"Marine engineer",11
+2237,"Marine self defense force",15
+2238,"Marine supply store",32
+2239,"Marine surveyor",27
+2240,"Maritime museum",4
+2241,Market,32
+2242,"Market researcher",27
+2243,"Marketing agency",27
+2244,"Marketing consultant",27
+2245,"Marksmen clubhouse",34
+2246,"Marquee hire service",12
+2247,"Marriage celebrant",25
+2248,"Marriage or relationship counselor",25
+2249,"Marriage license bureau",15
+2250,"Martial arts club",34
+2251,"Martial arts school",34
+2252,"Martial arts supply store",32
+2253,"Maserati dealer",8
+2254,"Masonic center",23
+2255,"Masonry contractor",7
+2256,"Masonry supply store",32
+2257,"Massage school",9
+2258,"Massage spa",25
+2259,"Massage supply store",32
+2260,"Massage therapist",25
+2261,"Matchbox manufacturer",21
+2262,"Material handling equipment supplier",35
+2263,"Maternity hospital",17
+2264,"Maternity store",32
+2265,"Mathematics school",9
+2266,"Mattress store",32
+2267,"Mausoleum builder",7
+2268,"Maybach dealer",8
+2269,"Mazda dealer",8
+2270,"McLaren dealer",8
+2271,"Meal delivery",14
+2272,"Takeout restaurant",14
+2273,"Measuring instruments supplier",35
+2274,"Meat packer",14
+2275,"Meat processor",14
+2276,"Meat products store",32
+2277,"Meat dish restaurant",14
+2278,"Meat wholesaler",32
+2279,Mechanic,21
+2280,"Mechanical contractor",7
+2281,"Mechanical engineer",11
+2282,"Mechanical plant",21
+2283,"Media and information sciences faculty",9
+2284,"Mediation service",27
+2285,"Medical billing service",17
+2286,"Medical book store",32
+2287,"Medical Center",17
+2288,"Medical certificate service",17
+2289,"Medical clinic",17
+2290,"Medical diagnostic imaging center",17
+2291,"Medical equipment manufacturer",21
+2292,"Medical equipment supplier",35
+2293,"Medical examiner",17
+2294,"Medical group",17
+2295,"Medical laboratory",17
+2296,"Medical lawyer",27
+2297,"Medical office",17
+2298,"Medical school",9
+2299,"Medical spa",17
+2300,"Medical supply store",32
+2301,"Medical technology manufacturer",21
+2302,"Medical transcription service",27
+2303,"Medicine exporter",21
+2304,"Meditation center",16
+2305,"Meditation instructor",16
+2306,"Mediterranean restaurant",14
+2307,"Meeting planning service",12
+2308,"Mehandi class",9
+2309,"Mehndi designer",25
+2310,Memorial,12
+2311,"Memorial estate",28
+2312,"Memorial park",29
+2313,"Mennonite church",30
+2314,"Men’s clothing store",32
+2315,"Men’s health physician",22
+2316,"Men’s tailor",32
+2317,"Mental health clinic",17
+2318,"Mental health service",17
+2319,"Mercantile development",28
+2320,"Mercedes-Benz dealer",8
+2321,"Messianic synagogue",30
+2322,"Metal construction company",7
+2323,"Metal detecting equipment supplier",35
+2324,"Metal fabricator",21
+2325,"Metal finisher",21
+2326,"Metal heat treating service",21
+2327,"Metal industry suppliers",35
+2328,"Metal machinery supplier",35
+2329,"Metal polishing service",21
+2330,"Metal processing company",21
+2331,"Metal stamping service",21
+2332,"Metal supplier",35
+2333,"Metal working shop",21
+2334,"Metal workshop",21
+2335,"Metallurgy company",21
+2336,"Metalware dealer",8
+2337,"Metalware producer",21
+2338,"Metaphysical supply store",32
+2339,"Methodist church",30
+2340,"Metropolitan train company",37
+2341,"Mexican goods store",32
+2342,"Mexican grocery store",32
+2343,"Mexican restaurant",14
+2344,"Mexican torta restaurant",14
+2345,Meyhane,14
+2346,"MG dealer",8
+2347,Microbiologist,17
+2348,"Microwave oven repair service",31
+2349,"Mid-Atlantic restaurant (US)",14
+2350,"Middle Eastern restaurant",14
+2351,"Middle school",9
+2352,Midwife,17
+2353,"Military archive",15
+2354,"Military residence",15
+2355,"Military barracks",15
+2356,"Military base",15
+2357,"Military board",15
+2358,"Military cemetery",15
+2359,"Military hospital",17
+2360,"Military recruiting office",15
+2361,"Military school",9
+2362,"Military town",15
+2363,"Milk delivery service",14
+2364,Mill,21
+2365,"Millwork shop",24
+2366,Mine,21
+2367,"Mineral water company",14
+2368,"Mineral water wholesaler",32
+2369,"MINI dealer",8
+2370,"Miniature golf course",29
+2371,"Miniatures store",32
+2372,"Minibus taxi service",37
+2373,"Mining company",21
+2374,"Mining consultant",27
+2375,"Mining engineer",11
+2376,"Mining equipment",21
+2377,"Ministry of Education",15
+2378,"Mirror shop",32
+2379,"Miso cutlet restaurant",14
+2380,"Missing persons organization",33
+2381,Mission,30
+2382,"Mitsubishi dealer",8
+2383,"Mobile caterer",14
+2384,"Mobile disco",4
+2385,"Mobile hairdresser",25
+2386,"Mobile home dealer",8
+2387,"Mobile home park",28
+2388,"Mobile home rental agency",28
+2389,"Mobile home supply store",32
+2390,"Mobile money agent",13
+2391,"Mobile network operator",36
+2392,"Mobile phone repair shop",31
+2393,"Mobility equipment supplier",35
+2394,"Model car play area",29
+2395,"Model portfolio studio",4
+2396,"Model train store",1
+2397,"Modeling agency",4
+2398,"Modeling school",9
+2399,"Modern art museum",4
+2400,"Modern British restaurant",14
+2401,"Modern European restaurant",14
+2402,"Modern French restaurant",14
+2403,"Modern Indian restaurant",14
+2404,"Modular home builder",28
+2405,"Modular home dealer",8
+2406,"Mold maker",21
+2407,"Molding supplier",35
+2408,"Momo restaurant",14
+2409,Monastery,30
+2410,"Money order service",13
+2411,"Money transfer service",13
+2412,"Mongolian barbecue restaurant",14
+2413,"Monjayaki restaurant",14
+2414,"Monogramming service",25
+2415,"Montessori school",9
+2416,"Monument maker",4
+2417,"Moped dealer",8
+2418,"Moravian church",30
+2419,"Modern izakaya restaurant",14
+2420,"Moroccan restaurant",14
+2421,"Mortgage broker",28
+2422,"Mortgage lender",13
+2423,Mortuary,17
+2424,Mosque,30
+2425,Motel,20
+2426,"Motor scooter dealer",8
+2427,"Motor scooter repair shop",31
+2428,"Motor vehicle dealer",8
+2429,"Motorcycle dealer",8
+2430,"Motorcycle driving school",9
+2431,"Motorcycle insurance agency",13
+2432,"Motorcycle parts store",21
+2433,"Motorcycle rental agency",21
+2434,"Motorcycle repair shop",31
+2435,"Motorcycle shop",21
+2436,"Motoring club",29
+2437,"Motorsports store",32
+2438,"Mountain cable car",29
+2439,"Mountain cabin",20
+2440,"Mountaineering class",9
+2441,"Movie rental kiosk",4
+2442,"Movie rental store",4
+2443,"Movie studio",4
+2444,"Movie theater",4
+2445,"Moving and storage service",19
+2446,"Moving company",19
+2447,"Moving supply store",32
+2448,"MRI center",17
+2449,"Muay Thai boxing gym",34
+2450,"Muffler shop",21
+2451,"Mughlai restaurant",14
+2452,"Mulch supplier",35
+2453,"Municipal administration office",15
+2454,"Municipal corporation",15
+2455,"Municipal Department Agricultural Development",15
+2456,"Municipal department of agriculture food supply",15
+2457,"Municipal Department Civil Defense",15
+2458,"Municipal Department Communication",15
+2459,"Municipal Department Finance",15
+2460,"Municipal Department Housing and Urban Development",15
+2461,"Municipal Department of Culture",15
+2462,"Municipal Department of Sports",15
+2463,"Municipal Department of Tourism",15
+2464,"Municipal Department Science Technology",15
+2465,"Municipal Department Social Defense",15
+2466,"Municipal Guard",15
+2467,"Municipal health department",15
+2468,"Municipal office education",15
+2469,"Municipal Social Development",15
+2470,"Murtabak restaurant",14
+2471,Musalla,30
+2472,Museum,4
+2473,"Museum of space history",4
+2474,"Museum of zoology",4
+2475,"Music box store",32
+2476,"Music college",9
+2477,"Music conservatory",9
+2478,"Music instructor",9
+2479,"Music management and promotion",4
+2480,"Music producer",4
+2481,"Music publisher",4
+2482,"Music school",9
+2483,"Music store",32
+2484,"Musical club",4
+2485,"Musical instrument manufacturer",4
+2486,"Musical instrument rental service",4
+2487,"Musical instrument repair shop",31
+2488,"Musical instrument store",32
+2489,Musician,4
+2490,"Mutton barbecue restaurant",14
+2491,"Nail salon",25
+2492,"Nanotechnology engineer",11
+2493,"Nasi goreng restaurant",14
+2494,"Nasi restaurant",14
+2495,"Nasi uduk restaurant",14
+2496,"National forest",29
+2497,"National health foundation",17
+2498,"National library",9
+2499,"National museum",4
+2500,"National park",29
+2501,"National reserve",29
+2502,"Native american goods store",32
+2503,"Native American restaurant",14
+2504,"Natural goods store",32
+2505,"Natural history museum",4
+2506,"Natural rock climbing area",29
+2507,"Natural stone exporter",21
+2508,"Natural stone supplier",35
+2509,"Natural stone wholesaler",32
+2510,"Nature preserve",29
+2511,"Naturopathic practitioner",17
+2512,"Naval base",15
+2513,"Navarraise restaurant",14
+2514,"Neapolitan restaurant",14
+2515,"Needlework shop",32
+2516,"Neon sign shop",32
+2517,"Neonatal physician",22
+2518,"Nepalese restaurant",14
+2519,Nephrologist,22
+2520,"Netball club",34
+2521,Neurologist,22
+2522,Neurophysiologist,22
+2523,Neurosurgeon,22
+2524,"New Age church",30
+2525,"New England restaurant",14
+2526,"New American restaurant",14
+2527,"New Years tree market",32
+2528,"New Zealand restaurant",14
+2529,"News service",4
+2530,"Newspaper advertising department",4
+2531,"Newspaper distribution",4
+2532,"Newspaper publisher",4
+2533,Newsstand,32
+2534,"Nicaraguan restaurant",14
+2535,"Night club",4
+2536,"Night market",32
+2537,"Nissan dealer",8
+2538,"Non-denominational church",30
+2539,"Non-governmental organization",23
+2540,"Non-profit organization",23
+2541,"Non-smoking holiday home",20
+2542,"Non-vegetarian restaurant",14
+2543,"Noodle shop",14
+2544,"North African restaurant",14
+2545,"North Eastern Indian restaurant",14
+2546,"North Indian restaurant",14
+2547,"Northern Italian restaurant",14
+2548,"Norwegian restaurant",14
+2549,"Notaries association",27
+2550,"Notary public",27
+2551,"Notions store",32
+2552,"Novelties wholesaler",32
+2553,"Novelty store",32
+2554,"Nuclear engineer",11
+2555,"Nuclear power company",10
+2556,"Nuclear power plant",10
+2557,"Nudist club",29
+2558,"Nudist park",29
+2559,"Nuevo Latino restaurant",14
+2560,Numerologist,25
+2561,Convent,30
+2562,"Nurse practitioner",17
+2563,"Nursery school",9
+2564,"Nursing agency",17
+2565,"Nursing association",17
+2566,"Nursing home",17
+2567,"Nursing school",9
+2568,"Nut store",32
+2569,Nutritionist,17
+2570,"Nyonya restaurant",14
+2571,"Oaxacan restaurant",14
+2572,"Obanzai restaurant",14
+2573,"Observation deck",29
+2574,Observatory,29
+2575,"Women’s health clinic",17
+2576,"Occupational health service",17
+2577,"Occupational medical physician",22
+2578,"Occupational safety and health",17
+2579,"Occupational therapist",17
+2580,"Oden restaurant",14
+2581,"Odia restaurant",14
+2582,"Off-road race track",34
+2583,"Off-roading area",29
+2584,"Off-track betting shop",4
+2585,"Offal pot cooking restaurant",14
+2586,"Office accessories wholesaler",32
+2587,"Office equipment rental service",27
+2588,"Office equipment repair service",31
+2589,"Office equipment supplier",35
+2590,"Office furniture store",32
+2591,"Office of Vital Records",15
+2592,"Office refurbishment service",27
+2593,"Office space rental agency",28
+2594,"Office supply store",32
+2595,"Office supply wholesaler",32
+2596,"Oil and gas exploration service",10
+2597,"Oil change service",21
+2598,"Oil & natural gas company",10
+2599,"Oil field equipment supplier",35
+2600,"Oil refinery",10
+2601,"Oil store",32
+2602,"Oil wholesaler",32
+2603,Oilfield,10
+2604,"Okonomiyaki restaurant",14
+2605,"Oldsmobile dealer",8
+2606,"Olive oil bottling company",14
+2607,"Olive oil cooperative",14
+2608,"Olive oil manufacturer",14
+2609,Oncologist,22
+2610,Onsen,29
+2611,"Opel dealer",8
+2612,"Open air museum",29
+2613,"Open university",9
+2614,"Opera company",4
+2615,"Opera house",4
+2616,Ophthalmologist,22
+2617,"Ophthalmology clinic",17
+2618,"Optical instrument repair service",31
+2619,"Optical products manufacturer",21
+2620,"Optical wholesaler",32
+2621,Optician,17
+2622,Optometrist,17
+2623,"Oral and maxillofacial surgeon",22
+2624,"Oral surgeon",22
+2625,Orchard,2
+2626,Orchestra,4
+2627,"Orchid farm",2
+2628,"Orchid grower",2
+2629,"Organ donation and tissue bank",17
+2630,"Organic drug store",32
+2631,"Organic farm",2
+2632,"Organic food store",32
+2633,"Organic restaurant",14
+2634,"Organic shop",32
+2635,"Oriental goods store",32
+2636,"Oriental medicine clinic",17
+2637,"Oriental medicine store",32
+2638,"Oriental rug store",32
+2639,"Orphan asylum",33
+2640,Orphanage,33
+2641,Orthodontist,22
+2642,"Orthodox church",30
+2643,"Orthodox synagogue",30
+2644,"Orthopedic clinic",17
+2645,"Orthopedic shoe store",32
+2646,"Orthopedic surgeon",22
+2647,Orthoptist,17
+2648,"Orthotics & prosthetics service",17
+2649,Osteopath,17
+2650,Otolaryngologist,22
+2651,"Otolaryngology clinic",17
+2652,"Outboard motor store",32
+2653,"Outdoor activity organizer",29
+2654,"Outdoor bath",29
+2655,"Outdoor clothing and equipment shop",32
+2656,"Outdoor equestrian facility",29
+2657,"Outdoor furniture store",32
+2658,"Outdoor movie theater",4
+2659,"Outdoor sports store",32
+2660,"Outdoor swimming pool",29
+2661,"Outerwear store",32
+2662,"Outlet mall",32
+2663,"Outlet store",32
+2664,"Oxygen cocktail spot",14
+2665,"Oxygen equipment supplier",35
+2666,"Oyster bar restaurant",14
+2667,"Oyster supplier",35
+2668,"Paan shop",14
+2669,"Pachinko parlor",4
+2670,"Pacific Rim restaurant",14
+2671,"Package locker",37
+2672,"Packaging company",21
+2673,"Packaging machinery",21
+2674,"Packaging supply store",32
+2675,"Padang restaurant",14
+2676,"Padel club",29
+2677,"Padel court",29
+2678,Pagoda,30
+2679,"Pain control clinic",17
+2680,"Pain management physician",22
+2681,"Paint manufacturer",21
+2682,"Paint store",32
+2683,"Paint stripping service",19
+2684,"Paintball center",29
+2685,"Paintball store",32
+2686,Painter,19
+2687,Painting,4
+2688,"Painting lessons",4
+2689,"Painting studio",4
+2690,"Paintings store",32
+2691,"Paisa restaurant",14
+2692,"Pakistani restaurant",14
+2693,"Palatine restaurant",14
+2694,"Pallet supplier",35
+2695,"Pan-Asian restaurant",14
+2696,"Pan-Latin restaurant",14
+2697,"Pancake restaurant",14
+2698,"Panipuri shop",14
+2699,"Paper bag supplier",35
+2700,"Paper distributor",32
+2701,"Paper exporter",21
+2702,"Paper mill",21
+2703,"Paper shredding machine supplier",35
+2704,"Paper store",32
+2705,"Paraguayan restaurant",14
+2706,"Paralegal services provider",27
+2707,Parapharmacy,32
+2708,"Parasailing ride service",29
+2709,Parish,30
+2710,Park,29
+2711,"Park & ride",37
+2712,"Parking garage",28
+2713,"Parking lot",28
+2714,"Parking lot for bicycles",37
+2715,"Parking lot for motorcycles",37
+2716,"Parkour spot",29
+2717,"Parochial school",9
+2718,"Parsi restaurant",14
+2719,"Parsi temple",30
+2720,"Part-time daycare",19
+2721,"Party equipment rental service",12
+2722,"Party planner",12
+2723,"Party store",32
+2724,"Passport agent",15
+2725,"Passport office",15
+2726,"Passport photo processor",27
+2727,"Pasta shop",14
+2728,"Pastry shop",14
+2729,"Patent attorney",27
+2730,"Patent office",15
+2731,"Paternity testing service",17
+2732,Pathologist,22
+2733,"Patients support association",17
+2734,"Patio enclosure supplier",35
+2735,Patisserie,14
+2736,"Paving contractor",7
+2737,"Paving materials supplier",35
+2738,"Pawn shop",32
+2739,"Pay by weight restaurant",14
+2740,"Payroll service",27
+2741,"Pecel lele restaurant",14
+2742,"Pedestrian zone",37
+2743,"Pediatric cardiologist",22
+2744,"Pediatric clinic",17
+2745,"Pediatric dentist",22
+2746,"Pediatric dermatologist",22
+2747,"Pediatric endocrinologist",22
+2748,"Pediatric gastroenterologist",22
+2749,"Pediatric hematologist",22
+2750,"Pediatric nephrologist",22
+2751,"Pediatric neurologist",22
+2752,"Pediatric oncologist",22
+2753,"Pediatric ophthalmologist",22
+2754,"Pediatric orthopedic surgeon",22
+2755,"Pediatric pulmonologist",22
+2756,"Pediatric rheumatologist",22
+2757,"Pediatric surgeon",22
+2758,"Pediatric urologist",22
+2759,Pediatrician,22
+2760,"Pempek restaurant",14
+2761,"Pen store",32
+2762,"Pennsylvania Dutch restaurant",14
+2763,"Pension office",15
+2764,"Pentecostal church",30
+2765,"Performing arts group",4
+2766,"Performing arts theater",4
+2767,"Perfume store",32
+2768,"Perinatal center",17
+2769,Periodontist,22
+2770,"Permanent make-up clinic",6
+2771,"Persian restaurant",14
+2772,"Personal injury attorney",27
+2773,"Personal trainer",16
+2774,"Personal watercraft dealer",8
+2775,"Peruvian restaurant",14
+2776,"Pest control service",19
+2777,"Pet adoption service",26
+2778,"Pet boarding service",26
+2779,"Pet cemetery",26
+2780,"Pet funeral service",26
+2781,"Pet groomer",26
+2782,"Pet moving service",26
+2783,"Pet sitter",26
+2784,"Pet store",32
+2785,"Pet supply store",32
+2786,"Pet trainer",26
+2787,"Petrochemical engineer",11
+2788,"Petroleum products company",10
+2789,"Peugeot dealer",8
+2790,"Pharmaceutical company",17
+2791,"Pharmaceutical lab",17
+2792,"Pharmaceutical products wholesaler",32
+2793,Pharmacy,17
+2794,"Philharmonic hall",4
+2795,"Pho restaurant",14
+2796,"Phone repair service",31
+2797,"Photo agency",4
+2798,"Photo booth",4
+2799,"Photo lab",4
+2800,"Photo restoration service",4
+2801,"Photo shop",32
+2802,"Photocopiers supplier",35
+2803,Photographer,4
+2804,"Photography class",9
+2805,"Photography school",9
+2806,"Photography service",4
+2807,"Photography studio",4
+2808,Physiatrist,17
+2809,"Physical examination center",17
+2810,"Physical fitness program",16
+2811,"Physician assistant",17
+2812,"Physician referral service",17
+2813,"Physical therapist",17
+2814,"Physical therapy clinic",17
+2815,"Physiotherapy equipment supplier",35
+2816,"Piadina restaurant",14
+2817,"Piano bar",14
+2818,"Piano instructor",4
+2819,"Piano maker",4
+2820,"Piano moving service",19
+2821,"Piano repair service",31
+2822,"Piano store",32
+2823,"Piano tuning service",19
+2824,"Pick your own farm produce",2
+2825,"Pickleball court",34
+2826,"Picnic ground",29
+2827,"Picture frame shop",32
+2828,"Pie shop",14
+2829,"Piedmontese restaurant",14
+2830,"Pig farm",2
+2831,"Pilaf restaurant",14
+2832,"Pilates studio",16
+2833,"Pile driving service",7
+2834,"Pilgrimage place",30
+2835,"Piñatas supplier",35
+2836,"Pinball machine supplier",35
+2837,"Pine furniture shop",32
+2838,"Pipe supplier",35
+2839,"Pizza delivery",14
+2840,"Pizza restaurant",14
+2841,"Pizza takeaway",14
+2842,"Place of worship",30
+2843,Planetarium,4
+2844,"Plant and machinery hire",27
+2845,"Plant nursery",18
+2846,"Plast window store",32
+2847,Plasterer,7
+2848,"Plastic bag supplier",35
+2849,"Plastic bags wholesaler",32
+2850,"Plastic fabrication company",21
+2851,"Plastic injection molding service",21
+2852,"Plastic products supplier",35
+2853,"Plastic resin manufacturer",21
+2854,"Plastic surgeon",22
+2855,"Plastic surgery clinic",17
+2856,"Plastic wholesaler",32
+2857,"Plating service",21
+2858,"Play school",9
+2859,Playground,29
+2860,"Playground equipment supplier",35
+2861,Playgroup,9
+2862,Plumber,19
+2863,"Plumbing supply store",32
+2864,"Plus size clothing store",32
+2865,"Plywood supplier",35
+2866,"Pneumatic tools supplier",35
+2867,"Po’ boys restaurant",14
+2868,Podiatrist,22
+2869,"Poke bar",14
+2870,"Police academy",9
+2871,"Police supply store",32
+2872,"Polish restaurant",14
+2873,"Political party office",15
+2874,"Polo club",34
+2875,"Polygraph service",27
+2876,"Polymer supplier",35
+2877,"Polynesian restaurant",14
+2878,"Polytechnic college",9
+2879,"Polythene and plastic sheeting supplier",35
+2880,"Pond contractor",19
+2881,"Pond fish supplier",35
+2882,"Pond supply store",32
+2883,"Pontiac dealer",8
+2884,"Pony club",34
+2885,"Pony ride service",29
+2886,"Cue sports school",9
+2887,"Pool billiard club",34
+2888,"Pool cleaning service",19
+2889,"Pool hall",4
+2890,"Popcorn store",14
+2891,"Katsudon restaurant",14
+2892,"Porridge restaurant",14
+2893,"Porsche dealer",8
+2894,"Port authority",37
+2895,"Port operating company",37
+2896,"Portable building manufacturer",7
+2897,"Portable toilet supplier",35
+2898,"Portrait studio",4
+2899,"Portuguese restaurant",14
+2900,"Post office",15
+2901,"Poster store",32
+2902,"Pottery classes",4
+2903,"Pottery manufacturer",21
+2904,"Pottery store",32
+2905,"Poultry farm",2
+2906,"Poultry store",32
+2907,"Powder coating service",21
+2908,"Power station",10
+2909,"Power plant consultant",10
+2910,"Power plant equipment supplier",35
+2911,"Powersports vehicle dealer",8
+2912,"Pozole restaurant",14
+2913,"Prawn fishing",34
+2914,"Pre gymnasium school",9
+2915,"Precision engineer",11
+2916,"Prefabricated house companies",7
+2917,Prefecture,15
+2918,"Japanese prefecture government office",15
+2919,"Pregnancy care center",17
+2920,"Preparatory school",9
+2921,"Presbyterian church",30
+2922,Preschool,9
+2923,"Press advisory",27
+2924,"Pressure washing service",19
+2925,"Pretzel store",14
+2926,Priest,30
+2927,"Primary school",9
+2928,"Print shop",27
+2929,"Printed music publisher",4
+2930,"Printer ink refill store",32
+2931,"Printer repair service",31
+2932,"Printing equipment and supplies",35
+2933,"Printing equipment supplier",35
+2934,Prison,15
+2935,"Private college",9
+2936,"Private equity firm",13
+2937,"Private golf course",34
+2938,"Private hospital",17
+2939,"Private investigator",27
+2940,"Private educational institution",9
+2941,"Private sector bank",13
+2942,"Private tutor",9
+2943,"Private university",9
+2944,"Probation office",15
+2945,"Process server",27
+2946,Proctologist,22
+2947,"Produce market",32
+2948,"Produce wholesaler",32
+2949,"Foie gras producer",2
+2950,"Professional and hobby associations",27
+2951,"Professional organizer",27
+2952,Promenade,29
+2953,"Promotional products supplier",35
+2954,"Propane supplier",35
+2955,"Propeller shop",32
+2956,"Property administrator",28
+2957,"Property investment",28
+2958,"Property maintenance",19
+2959,"Property management company",28
+2960,"Land registry office",15
+2961,Prosthetics,17
+2962,Prosthodontist,22
+2963,"Protective clothing supplier",35
+2964,"Protestant church",30
+2965,"Provence restaurant",14
+2966,"Provincial council",15
+2967,"Psychiatric hospital",17
+2968,Psychiatrist,22
+2969,Psychic,4
+2970,Psychoanalyst,17
+2971,Psychologist,22
+2972,"Psychomotor therapist",17
+2973,"Psychoneurological specialized clinic",17
+2974,"Psychopedagogy clinic",17
+2975,"Psychosomatic medical practitioner",17
+2976,Psychotherapist,17
+2977,Pub,14
+2978,"Public bath",29
+2979,"Public bathroom",15
+2980,"Public defender’s office",27
+2981,"Public female bathroom",15
+2982,"Public golf course",34
+2983,"Public health department",15
+2984,"Public housing",28
+2985,"Public library",9
+2986,"Public male bathroom",15
+2987,"Public medical center",17
+2988,"Public parking space",15
+2989,"Public prosecutors office",15
+2990,"Public relations firm",27
+2991,"Public safety office",15
+2992,"Public sauna",29
+2993,"Public educational institution",9
+2994,"Public sector bank",13
+2995,"Public swimming pool",29
+2996,"Public university",9
+2997,"Public webcam",36
+2998,"Public wheelchair-accessible bathroom",15
+2999,"Public works department",15
+3000,Publisher,4
+3001,"Pueblan restaurant",14
+3002,"Puerto Rican restaurant",14
+3003,Pulmonologist,22
+3004,"Pump supplier",35
+3005,"Pumping equipment and service",1
+3006,"Pumpkin patch",2
+3007,"Punjabi restaurant",14
+3008,"Puppet theater",4
+3009,"PVC industry",21
+3010,"PVC windows supplier",35
+3011,Pyrotechnician,4
+3012,"Qing fang market place",27
+3013,"Quaker church",30
+3014,"Quantity surveyor",7
+3015,Quarry,7
+3016,"Québécois restaurant",14
+3017,"Quilt shop",32
+3018,"Race car dealer",8
+3019,Racecourse,34
+3020,"Racing car parts store",21
+3021,"Raclette restaurant",14
+3022,"Racquetball club",34
+3023,"Radiator repair service",31
+3024,"Radiator shop",21
+3025,"Radio broadcaster",4
+3026,Radiologist,22
+3027,Radiotherapist,17
+3028,"Raft trip outfitter",29
+3029,Rafting,29
+3030,"Rail museum",20
+3031,"Railing contractor",7
+3032,"Railroad company",37
+3033,"Railroad contractor",7
+3034,"Railroad equipment supplier",35
+3035,"Railroad ties supplier",35
+3036,"Railway services",37
+3037,"Rainwater tank supplier",35
+3038,"Rajasthani restaurant",14
+3039,"Ram dealer",8
+3040,"Ramen restaurant",14
+3041,Ranch,2
+3042,"Rare book store",32
+3043,"Raw food restaurant",14
+3044,"Ready mix concrete supplier",35
+3045,"Real estate agency",28
+3046,"Real estate agent",28
+3047,"Real estate appraiser",28
+3048,"Real estate attorney",27
+3049,"Real estate auctioneer",28
+3050,"Real estate consultant",28
+3051,"Real estate developer",28
+3052,"Real estate fair",28
+3053,"Real estate rental agency",28
+3054,"Real estate school",9
+3055,"Real estate surveyor",28
+3056,"Realschule (middle-tier secondary school)",9
+3057,"Reclamation centre",1
+3058,"Record company",4
+3059,"Records storage facility",1
+3060,"Record store",32
+3061,"Recording studio",4
+3062,"Recreation center",29
+3063,Rectory,30
+3064,"Recycling center",1
+3065,"Recycling drop-off location",1
+3066,"Reenactment site",20
+3067,Reflexologist,17
+3068,"Reform synagogue",30
+3069,"Reformed church",30
+3070,"Refrigerated transport service",37
+3071,"Refrigerator repair service",31
+3072,"Refrigerator store",32
+3073,"Refugee camp",33
+3074,"Regional airport",37
+3075,"Regional council",15
+3076,"Regional government office",15
+3077,"Registered general nurse",17
+3078,"Registration office",15
+3079,"Registry office",15
+3080,"Rehabilitation center",17
+3081,"Reiki therapist",17
+3082,"Religious book store",32
+3083,"Religious destination",20
+3084,"Religious goods store",32
+3085,"Religious institution",30
+3086,"Religious organization",30
+3087,"Religious school",9
+3088,Remodeler,19
+3089,"Renault dealer",8
+3090,"Renter’s insurance agency",13
+3091,"Repair service",31
+3092,"Reproductive health clinic",17
+3093,"Reptile store",32
+3094,"Research and product development",27
+3095,"Research engineer",11
+3096,"Research foundation",23
+3097,"Research institute",9
+3098,"Resident registration office",15
+3099,"Residential college",9
+3100,"Residents association",23
+3101,"Resort hotel",20
+3102,"Rest stop",20
+3103,Restaurant,14
+3104,Brasserie,14
+3105,"Restaurant supply store",32
+3106,"Resume service",27
+3107,"Retail space rental agency",28
+3108,"Retaining wall supplier",35
+3109,"Retirement community",23
+3110,"Retirement home",23
+3111,"Retreat center",29
+3112,Rheumatologist,22
+3113,"Rice cake shop",14
+3114,"Rice cracker shop",14
+3115,"Rice mill",14
+3116,"Rice restaurant",14
+3117,"Rice shop",14
+3118,"Rice wholesaler",32
+3119,"River port",37
+3120,"Road construction company",7
+3121,"Road construction machine repair service",31
+3122,"Road cycling",34
+3123,"Road safety town",9
+3124,"Roads ports and canals engineers association",21
+3125,"Rock climbing",34
+3126,"Rock climbing gym",34
+3127,"Rock climbing instructor",34
+3128,"Rock music club",4
+3129,"Rock shop",32
+3130,Rodeo,34
+3131,"Rolled metal products supplier",35
+3132,"Roller coaster",4
+3133,"Roller skating club",34
+3134,"Roller skating rink",34
+3135,"Rolls-Royce dealer",8
+3136,"Roman restaurant",14
+3137,"Romanian restaurant",14
+3138,"Roofing contractor",21
+3139,"Roofing supply store",32
+3140,"Roommate referral service",25
+3141,"Rowing area",34
+3142,"Rowing club",34
+3143,"Rsl club",23
+3144,"Rubber products supplier",35
+3145,"Rubber stamp store",32
+3146,"Rug store",32
+3147,Rugby,34
+3148,"Rugby club",34
+3149,"Rugby field",34
+3150,"Rugby league club",34
+3151,"Rugby store",32
+3152,"Running store",32
+3153,"Russian grocery store",32
+3154,"Russian Orthodox church",21
+3155,"Russian restaurant",14
+3156,"Rustic furniture store",32
+3157,"RV dealer",8
+3158,"RV park",24
+3159,"Recreational vehicle rental agency",15
+3160,"RV repair shop",31
+3161,"RV storage facility",1
+3162,"RV supply store",32
+3163,"Saab dealer",8
+3164,Sacem,27
+3165,Saddlery,32
+3166,"Safe & vault shop",32
+3167,"Safety equipment supplier",35
+3168,"Sailing club",34
+3169,"Sailing event area",12
+3170,"Sailing school",9
+3171,Sailmaker,21
+3172,"Sake brewery",32
+3173,"Salad shop",32
+3174,"Salsa bar",14
+3175,"Salsa classes",9
+3176,"Salvadoran restaurant",14
+3177,"Salvage dealer",8
+3178,"Salvage yard",27
+3179,"Samba school",9
+3180,"Sambo school",9
+3181,Sambodrome,23
+3182,"Sand & gravel supplier",35
+3183,"Sand plant",21
+3184,"Sandblasting service",7
+3185,"Sandwich shop",32
+3186,"Sanitary inspection",6
+3187,"Sanitation service",19
+3188,"Sardinian restaurant",14
+3189,"Saree Shop",32
+3190,"Satay restaurant",14
+3191,"Satellite communication service",36
+3192,"Saturn dealer",8
+3193,Sauna,19
+3194,"Sauna club",23
+3195,"Sauna store",32
+3196,"Savings bank",13
+3197,"Saw mill",21
+3198,"Saw sharpening service",19
+3199,Scaffolder,7
+3200,"Scaffolding rental service",30
+3201,"Scale model club",23
+3202,"Model shop",32
+3203,"Scale repair service",31
+3204,"Scale supplier",35
+3205,"Scandinavian restaurant",14
+3206,"Scenic spot",27
+3207,"Scenography company",27
+3208,School,9
+3209,"School administrator",9
+3210,"School bus service",37
+3211,"School center",9
+3212,"School district office",15
+3213,"School for the deaf",9
+3214,"School house",9
+3215,"School lunch center",27
+3216,"School supply store",32
+3217,"Science academy",9
+3218,"Science museum",4
+3219,"Scientific equipment supplier",35
+3220,"Scooter rental service",21
+3221,"Scooter repair shop",31
+3222,"Scottish restaurant",14
+3223,"Scout hall",23
+3224,"Scout home",23
+3225,Scouting,23
+3226,"Scrap metal dealer",8
+3227,"Scrapbooking store",4
+3228,"Screen printer",4
+3229,"Screen printing shop",4
+3230,"Screen printing supply store",32
+3231,"Screen repair service",31
+3232,"Screen store",32
+3233,"Screw supplier",35
+3234,"SCUBA instructor",34
+3235,"SCUBA tour agency",20
+3236,Sculptor,4
+3237,Sculpture,4
+3238,"Sculpture museum",4
+3239,"Seafood donburi restaurant",14
+3240,"Seafood farm",2
+3241,"Seafood market",14
+3242,"Seafood restaurant",14
+3243,"Seafood wholesaler",32
+3244,"Seal shop",32
+3245,"Seaplane base",37
+3246,"Seasonal goods store",32
+3247,"Seat dealer",8
+3248,"Seblak restaurant",14
+3249,"Second hand store",32
+3250,"Secondary school",9
+3251,"Secondary school (Germany)",9
+3252,"Security guard service",27
+3253,"Security service",27
+3254,"Security system installer",27
+3255,"Security system supplier",35
+3256,"Seed supplier",35
+3257,Seitai,16
+3258,"Self defense school",34
+3259,"Self service car wash",21
+3260,"Self service health station",16
+3261,"Self service restaurant",14
+3262,"Self-storage facility",28
+3263,"Semi conductor supplier",35
+3264,Seminary,9
+3265,"Senior citizen center",23
+3266,"Aged care",16
+3267,"Senior high school",9
+3268,"Septic system service",7
+3269,"Serbian restaurant",14
+3270,"Serviced accommodation",20
+3271,"Serviced apartment",20
+3272,"Seventh-day Adventist church",23
+3273,"Sewage disposal service",7
+3274,"Sewage treatment plant",7
+3275,"Sewing company",21
+3276,"Sewing machine repair service",31
+3277,"Sewing machine store",32
+3278,"Sewing shop",32
+3279,Sexologist,22
+3280,"Seychelles restaurant",14
+3281,"Sfiha restaurant",14
+3282,"Sukiyaki and Shabu Shabu restaurant",14
+3283,"Shabu-shabu restaurant",14
+3284,"Shandong restaurant",14
+3285,"Shanghainese restaurant",14
+3286,"Shared-use commercial kitchen",14
+3287,"Sharpening service",27
+3288,"Shawarma restaurant",14
+3289,"Shed builder",7
+3290,"Sheep shearer",2
+3291,"Sheepskin and wool products supplier",35
+3292,"Sheepskin coat store",32
+3293,"Sheet metal contractor",7
+3294,"Sheet music store",32
+3295,Shelter,23
+3296,"Sheltered housing",28
+3297,"Shelving store",32
+3298,"Sheriff’s department",23
+3299,"Shinkin bank",13
+3300,"Shinto shrine",23
+3301,"Ship building",21
+3302,"Shipbuilding and repair company",31
+3303,"Shipping and mailing service",37
+3304,"Shipping company",37
+3305,"Shipping equipment industry",21
+3306,"Shipping service",37
+3307,Shipyard,21
+3308,"Shochu brewery",14
+3309,"Shoe factory",21
+3310,"Shoe repair shop",31
+3311,"Shoe shining service",6
+3312,"Shoe store",32
+3313,"Footwear wholesaler",32
+3314,"Shogi lesson",4
+3315,"Shooting event area",34
+3316,"Shooting range",34
+3317,"Shop supermarket furniture store",32
+3318,Shopfitter,7
+3319,"Shopping mall",32
+3320,"Short term apartment rental agency",28
+3321,"Shower door shop",32
+3322,"Shredding service",27
+3323,"Shrimp farm",2
+3324,Shrine,23
+3325,"Sichuan restaurant",14
+3326,"Sicilian restaurant",14
+3327,"Siding contractor",7
+3328,"Sightseeing tour agency",20
+3329,"Sign shop",27
+3330,Gurudwara,23
+3331,"Silk plant shop",32
+3332,"Silk store",32
+3333,Silversmith,4
+3334,"Singaporean restaurant",14
+3335,"Singing telegram service",4
+3336,"Single sex secondary school",9
+3337,"Singles organization",23
+3338,"Sixth form college",9
+3339,"Skate sharpening service",34
+3340,"Skate shop",34
+3341,"Skateboard park",34
+3342,"Skateboard shop",34
+3343,"Skating instructor",34
+3344,"Skeet shooting range",34
+3345,"Kushiage and kushikatsu restaurant",14
+3346,"Ski club",34
+3347,"Ski rental service",34
+3348,"Ski repair service",31
+3349,"Ski resort",20
+3350,"Ski school",34
+3351,"Ski shop",34
+3352,"Skin care clinic",16
+3353,"Skin care products vending machine",32
+3354,"Skittle club",34
+3355,"Skoda dealer",8
+3356,"Skydiving center",34
+3357,"Skylight contractor",7
+3358,Slaughterhouse,2
+3359,"Sleep clinic",16
+3360,"Small appliance repair service",31
+3361,"Small claims assistance service",27
+3362,"Small engine repair service",31
+3363,"Small plates restaurant",14
+3364,"Smart Car dealer",8
+3365,"Smart dealer",8
+3366,"Smart shop",32
+3367,"Smog inspection station",21
+3368,"Snack bar",14
+3369,"Snow removal service",27
+3370,"Snowboard rental service",34
+3371,"Snowboard shop",34
+3372,"Snowmobile dealer",8
+3373,"Snowmobile rental service",34
+3374,Soapland,20
+3375,"Soba noodle shop",14
+3376,"Soccer club",34
+3377,"Soccer field",34
+3378,"Soccer practice",34
+3379,"Soccer store",34
+3380,"Social club",23
+3381,"Social security attorney",27
+3382,"Social security financial department",13
+3383,"Social security office",15
+3384,"Social services organization",23
+3385,"Social welfare center",23
+3386,"Social worker",23
+3387,"Societe de Flocage",27
+3388,"Sod supplier",35
+3389,"Sofa store",32
+3390,"Soft drinks shop",14
+3391,"Suppon restaurant",14
+3392,"Softball club",34
+3393,"Softball field",34
+3394,"Software training institute",9
+3395,"Soil testing service",7
+3396,"Sokol house",23
+3397,"Solar energy company",10
+3398,"Solar energy contractor",7
+3399,"Solar energy equipment supplier",35
+3400,"Solar hot water system supplier",35
+3401,"Solar photovoltaic power plant",10
+3402,"Solid fuel company",10
+3403,"Solid waste engineer",11
+3404,"Soondae restaurant",14
+3405,"Soto ayam restaurant",14
+3406,"Soto restaurant",14
+3407,"Soul food restaurant",14
+3408,"Soup kitchen",23
+3409,"Soup restaurant",14
+3410,"Soup shop",14
+3411,"South African restaurant",14
+3412,"South American restaurant",14
+3413,"South Asian restaurant",14
+3414,"Southeast Asian restaurant",14
+3415,"South Indian restaurant",14
+3416,"South Sulawesi restaurant",14
+3417,"Southern Italian restaurant",14
+3418,"Southern restaurant (US)",14
+3419,"Southwest France restaurant",14
+3420,"Southwestern restaurant (US)",14
+3421,"Souvenir manufacturer",21
+3422,"Souvenir store",32
+3423,"Soy sauce maker",14
+3424,Spa,16
+3425,"Spa and health club",16
+3426,"Spa garden",16
+3427,"Spa town",16
+3428,"Space of remembrance",23
+3429,"Spanish restaurant",14
+3430,"Special education school",9
+3431,"Specialized clinic",16
+3432,"Specialized hospital",16
+3433,"Speech pathologist",22
+3434,"Sperm bank",16
+3435,"Spice store",32
+3436,"Spices exporter",21
+3437,"Spices wholesalers",32
+3438,"Spiritist center",23
+3439,"Sport tour agency",20
+3440,"Sporting goods store",32
+3441,"Sports accessories wholesaler",32
+3442,"Sports bar",14
+3443,"Sports card store",32
+3444,"Sports club",34
+3445,"Sports complex",34
+3446,"Sports equipment rental service",34
+3447,"Sports massage therapist",16
+3448,"Sports medicine clinic",16
+3449,"Sports medicine physician",22
+3450,"Sports memorabilia store",32
+3451,"Sports nutrition store",32
+3452,"Sports school",9
+3453,"Sportswear store",32
+3454,"Sportswear manufacturer",21
+3455,"Spring supplier",35
+3456,"Squash club",34
+3457,"Squash court",34
+3458,"Sri Lankan restaurant",14
+3459,Stable,2
+3460,Stadium,34
+3461,Stage,4
+3462,"Stage lighting equipment supplier",35
+3463,"Stained glass studio",4
+3464,"Stainless steel plant",21
+3465,"Stair contractor",7
+3466,"Stall installation service",27
+3467,"Stamp collectors club",20
+3468,"Stamp shop",32
+3469,"Stand bar",14
+3470,"Staple food package",14
+3471,"State archive",15
+3472,"State department of agricultural development",15
+3473,"State Department Agriculture Food Supply",15
+3474,"State Department Communication",15
+3475,"State Department Finance",15
+3476,"State Department for Social Development",15
+3477,"State Department Housing and Urban Development",15
+3478,"State Department of Environment",15
+3479,"State Department of Tourism",15
+3480,"State Department of Transportation",15
+3481,"State Department Science Technology",15
+3482,"State department of social defense",15
+3483,"State Dept of Culture",15
+3484,"State Dept of Sports",15
+3485,"State employment department",15
+3486,"State government office",15
+3487,"State liquor store",32
+3488,"State office of education",15
+3489,"State owned farm",2
+3490,"State park",20
+3491,"State police",15
+3492,"Stationery manufacturer",21
+3493,"Stationery store",32
+3494,"Stationery wholesaler",32
+3495,Statuary,4
+3496,"STD clinic",16
+3497,"STD testing service",16
+3498,"Steak house",14
+3499,"Steamboat restaurant",14
+3500,"Steamed bun shop",14
+3501,"Steel construction company",7
+3502,"Steel distributor",21
+3503,"Steel drum supplier",35
+3504,"Steel erector",7
+3505,"Steel fabricator",7
+3506,"Steel framework contractor",7
+3507,"Steelwork design company",7
+3508,"Steelwork manufacturer",21
+3509,"Stereo rental store",32
+3510,"Stereo repair service",31
+3511,"Home audio store",32
+3512,"Sticker manufacturer",21
+3513,"Stitching class",9
+3514,"Stock broker",13
+3515,"Stock exchange building",13
+3516,"Stone carving",4
+3517,"Stone cutter",7
+3518,"Stone supplier",35
+3519,"Storage facility",27
+3520,Store,32
+3521,"Store equipment supplier",35
+3522,"Stove builder",7
+3523,"Stringed instrument maker",21
+3524,"Structural engineer",7
+3525,"Stucco contractor",7
+3526,"Student career counseling office",9
+3527,"Student dormitory",9
+3528,"Student housing center",9
+3529,"Student union",9
+3530,"Students parents association",9
+3531,"Students support association",9
+3532,"Study at home school",9
+3533,"Studying center",9
+3534,Stylist,25
+3535,"Subaru dealer",8
+3536,"Suburban train line",37
+3537,"Sugar factory",21
+3538,"Sugar shack",14
+3539,"Sukiyaki restaurant",14
+3540,"Summer camp",29
+3541,"Summer toboggan run",29
+3542,"Sundae restaurant",14
+3543,"Sundanese restaurant",14
+3544,"Sunglasses store",32
+3545,"Sunroom contractor",7
+3546,"Super public bath",16
+3547,"Superannuation consultant",13
+3548,"Superfund site",32
+3549,Supermarket,32
+3550,"Support group",23
+3551,"Surf lifesaving club",34
+3552,"Surf school",34
+3553,"Surf shop",32
+3554,Surgeon,22
+3555,"Surgical center",17
+3556,"Surgical oncologist",22
+3557,"Surgical products wholesaler",32
+3558,"Surgical supply store",32
+3559,"Surinamese restaurant",14
+3560,"Surplus store",32
+3561,Surveyor,7
+3562,"Sushi restaurant",14
+3563,"Sushi takeaway",14
+3564,"Suzuki dealer",8
+3565,"Suzuki motorcycle dealer",8
+3566,"Swabian restaurant",14
+3567,"Swedish restaurant",14
+3568,"Swim club",34
+3569,"Swimming basin",34
+3570,"Swimming competition",34
+3571,"Swimming facility",34
+3572,"Swimming instructor",34
+3573,"Swimming lake",34
+3574,"Swimming pool",34
+3575,"Swimming pool contractor",7
+3576,"Swimming pool repair service",31
+3577,"Swimming pool supply store",32
+3578,"Swimming school",34
+3579,"Swimwear store",32
+3580,"Swiss restaurant",14
+3581,Synagogue,30
+3582,"Syrian restaurant",14
+3583,"T-shirt company",32
+3584,"T-shirt store",32
+3585,"Tabascan restaurant",14
+3586,"Table tennis club",34
+3587,"Table tennis facility",34
+3588,"Table tennis supply store",32
+3589,"Tacaca restaurant",14
+3590,"Tack shop",32
+3591,"Taco restaurant",14
+3592,"Taekwondo competition area",34
+3593,"Taekwondo school",34
+3594,"Tag agency",15
+3595,"Tai chi school",34
+3596,Tailor,25
+3597,"Taiwanese restaurant",14
+3598,"Takoyaki restaurant",14
+3599,"Talent agency",4
+3600,"Tamale shop",14
+3601,Tannery,21
+3602,"Tanning salon",25
+3603,"Taoist temple",30
+3604,"Tapas bar",14
+3605,"Tapas restaurant",14
+3606,"Tatami store",32
+3607,"Tattoo and piercing shop",25
+3608,"Tattoo artist",25
+3609,"Tattoo removal service",25
+3610,"Tattoo shop",25
+3611,"Tax assessor",15
+3612,"Tax attorney",27
+3613,"Tax collector’s office",15
+3614,"Tax department",15
+3615,"Tax preparation",13
+3616,"Tax preparation service",13
+3617,"Taxi service",37
+3618,"Taxi stand",37
+3619,Taxidermist,26
+3620,"TB clinic",17
+3621,"Tea exporter",21
+3622,"Tea house",14
+3623,"Tea manufacturer",21
+3624,"Tea market place",32
+3625,"Tea store",32
+3626,"Tea wholesaler",32
+3627,"Teacher college",9
+3628,"Technical school",9
+3629,"Technical service",27
+3630,"Technical university",9
+3631,"Technology museum",4
+3632,"Technology park",27
+3633,"Teeth whitening service",17
+3634,"Tegal restaurant",14
+3635,"Telecommunication school",9
+3636,"Telecommunications contractor",7
+3637,"Telecommunications engineer",11
+3638,"Telecommunications equipment supplier",35
+3639,"Telecommunications service provider",36
+3640,"Telemarketing service",27
+3641,"Telephone answering service",27
+3642,"Telephone company",36
+3643,"Telephone exchange",36
+3644,"Telescope store",32
+3645,"Television repair service",31
+3646,"Television station",4
+3647,"Temaki restaurant",14
+3648,"Temp agency",27
+3649,"Tempura donburi restaurant",14
+3650,"Tempura restaurant",14
+3651,"Tenant ownership",28
+3652,"Tenant’s union",23
+3653,"Tennis club",34
+3654,"Tennis court",34
+3655,"Tennis court construction company",7
+3656,"Tennis instructor",34
+3657,"Tennis store",32
+3658,"Tent rental service",12
+3659,"Teppanyaki restaurant",14
+3660,"Tesla showroom",21
+3661,"Tex-Mex restaurant",14
+3662,"Textile engineer",21
+3663,"Textile exporter",21
+3664,"Textile mill",21
+3665,"Thai massage therapist",17
+3666,"Thai restaurant",14
+3667,"Theater company",4
+3668,"Theater production",4
+3669,"Theater supply store",32
+3670,"Theatrical costume supplier",35
+3671,"Theme park",4
+3672,"Thermal baths",16
+3673,"Thermal power plant",10
+3674,"Thread supplier",35
+3675,"Threads and yarns wholesaler",32
+3676,"3D printing service",21
+3677,"Thrift store",32
+3678,"Thuringian restaurant",14
+3679,"Tibetan restaurant",14
+3680,"Tiffin center",14
+3681,"Tiki bar",14
+3682,"Tile contractor",7
+3683,"Tile manufacturer",21
+3684,"Tile store",32
+3685,"Timeshare agency",28
+3686,"Tyre manufacturer",21
+3687,"Tire repair shop",31
+3688,"Tire shop",21
+3689,"Title company",28
+3690,"Toast restaurant",14
+3691,"Tobacco exporter",21
+3692,"Tobacco shop",32
+3693,"Tobacco supplier",35
+3694,"Tofu restaurant",14
+3695,"Tofu shop",32
+3696,"Toiletries store",32
+3697,"Toll road rest stop",20
+3698,"Toll booth",20
+3699,"Toner cartridge supplier",35
+3700,"Tongue restaurant",14
+3701,"Tonkatsu restaurant",14
+3702,"Tool & die shop",21
+3703,"Tool grinding service",21
+3704,"Tool manufacturer",21
+3705,"Tool rental service",20
+3706,"Tool repair shop",31
+3707,"Tool store",32
+3708,"Tool wholesaler",32
+3709,Toolroom,21
+3710,"Topography company",7
+3711,"Topsoil supplier",35
+3712,"Tortilla shop",14
+3713,"Tour agency",20
+3714,"Tour operator",20
+3715,"Tourist attraction",20
+3716,"Tourist information center",20
+3717,"Communications tower",36
+3718,"Towing equipment provider",21
+3719,"Towing service",21
+3720,"Townhouse complex",28
+3721,"Toy and game manufacturer",21
+3722,"Toy library",4
+3723,"Toy manufacturer",21
+3724,"Toy museum",4
+3725,"Toy store",32
+3726,"Toyota dealer",8
+3727,"Tractor dealer",8
+3728,"Tractor repair shop",31
+3729,"Trade fair construction company",7
+3730,"Trade school",9
+3731,"Trading card store",32
+3732,"Traditional costume club",23
+3733,"Traditional Kostume store",32
+3734,"Traditional market",32
+3735,"Traditional restaurant",14
+3736,"Traditional teahouse",14
+3737,"Traditional American restaurant",14
+3738,"Traffic officer",15
+3739,"Trailer dealer",8
+3740,"Trailer manufacturer",21
+3741,"Trailer rental service",21
+3742,"Trailer repair shop",31
+3743,"Trailer supply store",32
+3744,"Train depot",37
+3745,"Train repairing center",31
+3746,"Train ticket agency",20
+3747,"Train ticket office",20
+3748,"Train yard",20
+3749,"Training centre",9
+3750,"Training school",9
+3751,"Transcription service",27
+3752,"Transit depot",20
+3753,Translator,27
+3754,"Transmission shop",21
+3755,"Transplant surgeon",22
+3756,"Transportation escort service",20
+3757,"Transportation service",20
+3758,"Travel agency",20
+3759,"Travel clinic",17
+3760,"Travel lounge",20
+3761,"Tree farm",2
+3762,"Tree service",7
+3763,"Trial attorney",27
+3764,"Tribal headquarters",15
+3765,"Triumph motorcycle dealer",8
+3766,"Trophy shop",32
+3767,"Tropical fish store",26
+3768,"Truck accessories store",21
+3769,"Truck dealer",8
+3770,"Truck farmer",2
+3771,"Truck parts supplier",35
+3772,"Truck rental agency",21
+3773,"Truck repair shop",31
+3774,"Truck stop",20
+3775,"Truck topper supplier",35
+3776,"Trucking company",21
+3777,"Trucking school",9
+3778,"Truss manufacturer",7
+3779,"Trust bank",13
+3780,"Tsukigime parking lot",37
+3781,"Tune up supplier",35
+3782,"Tuning automobile",5
+3783,"Tunisian restaurant",14
+3784,"Turf supplier",35
+3785,"Turkish restaurant",14
+3786,"Turkmen restaurant",14
+3787,Turnery,21
+3788,"Tuscan restaurant",14
+3789,"Tutoring service",9
+3790,"Tuxedo shop",32
+3791,"Typewriter repair service",31
+3792,"Typewriter supplier",35
+3793,"Typing service",27
+3794,"Udon noodle restaurant",14
+3795,"Ukrainian restaurant",14
+3796,"Unagi restaurant",14
+3797,"Underwear store",32
+3798,"Unemployment office",15
+3799,"Unfinished furniture store",32
+3800,"Uniform store",32
+3801,Hairdresser,6
+3802,"Unitarian Universalist Church",30
+3803,"United Church of Canada",30
+3804,"United Church of Christ",30
+3805,"United Methodist church",30
+3806,"United States Armed Forces Base",15
+3807,"Unity church",30
+3808,University,9
+3809,"University department",9
+3810,"University hospital",17
+3811,"University library",9
+3812,"Upholstery cleaning service",19
+3813,"Upholstery shop",32
+3814,"Urban planning department",15
+3815,"Urgent care center",17
+3816,Urologist,22
+3817,"Urology clinic",17
+3818,"Uruguayan restaurant",14
+3819,"Pacific Northwest restaurant (US)",14
+3820,"Used appliance store",32
+3821,"Used auto parts store",5
+3822,"Used bicycle shop",34
+3823,"Used book store",32
+3824,"Used car dealer",8
+3825,"Used CD store",32
+3826,"Used clothing store",32
+3827,"Used computer store",32
+3828,"Used furniture store",32
+3829,"Used game store",32
+3830,"Used motorcycle dealer",8
+3831,"Used musical instrument store",32
+3832,"Used office furniture store",32
+3833,"Used store fixture supplier",35
+3834,"Used tire shop",21
+3835,"Used truck dealer",8
+3836,"Utility contractor",7
+3837,"Utility trailer dealer",8
+3838,"Uzbeki restaurant",14
+3839,"Holiday apartment",28
+3840,"Vacation home rental agency",20
+3841,"Vacuum cleaner repair shop",31
+3842,"Vacuum cleaner store",32
+3843,"Vacuum cleaning system supplier",35
+3844,"Valencian restaurant",14
+3845,"Valet parking service",24
+3846,"Van rental agency",21
+3847,"Vaporizer store",32
+3848,"Variety store",32
+3849,"Vascular surgeon",22
+3850,"Vastu consultant",27
+3851,"VCR repair service",31
+3852,"Vegan restaurant",14
+3853,"Vegetable wholesale market",32
+3854,"Vegetable wholesaler",32
+3855,"Vegetarian cafe and deli",14
+3856,"Vegetarian restaurant",14
+3857,"Vehicle examination office",15
+3858,"Vehicle exporter",21
+3859,"Vehicle inspection",21
+3860,"Vehicle shipping agent",21
+3861,"Vehicle wrapping service",21
+3862,Velodrome,34
+3863,"Vending machine supplier",35
+3864,Venereologist,22
+3865,"Venetian restaurant",14
+3866,"Venezuelan restaurant",14
+3867,"Ventilating equipment manufacturer",21
+3868,"Venture capital company",13
+3869,"Veterans affairs department",15
+3870,"Veterans center",23
+3871,"Veterans hospital",17
+3872,"Veterans organization",23
+3873,Veterinarian,26
+3874,"Veterinary pharmacy",17
+3875,"Video arcade",4
+3876,"Video camera repair service",31
+3877,"Video conferencing equipment supplier",35
+3878,"Video conferencing service",36
+3879,"Video duplication service",4
+3880,"Video editing service",4
+3881,"Video equipment repair service",31
+3882,"Video game rental kiosk",4
+3883,"Video game rental service",4
+3884,"Video game rental store",4
+3885,"Video game store",4
+3886,"Video karaoke",4
+3887,"Video production service",4
+3888,"Video store",4
+3889,"Vietnamese restaurant",14
+3890,Villa,28
+3891,"Village hall",23
+3892,Vineyard,2
+3893,"Vineyard church",30
+3894,"Vintage clothing store",32
+3895,"Vinyl sign shop",32
+3896,"Violin shop",32
+3897,"Virtual office rental",27
+3898,"Visa and passport office",15
+3899,"Visa consultant",27
+3900,"Visitor center",20
+3901,"Vitamin & supplements store",32
+3902,"Vocal instructor",9
+3903,"Vocational college",9
+3904,"Vocational gymnasium school",9
+3905,"Vocational school one",9
+3906,"Vocational secondary school",9
+3907,"Vocational school",9
+3908,"Volkswagen dealer",8
+3909,"Volleyball club",34
+3910,"Volleyball court",34
+3911,"Volleyball instructor",34
+3912,"Volunteer organization",23
+3913,"Volvo dealer",8
+3914,"Voter registration office",15
+3915,"Waldorf kindergarten",9
+3916,"Waldorf school",9
+3917,"Walk-in clinic",17
+3918,"Wallpaper installer",32
+3919,"Wallpaper store",32
+3920,"War museum",4
+3921,Warehouse,37
+3922,"Warehouse club",32
+3923,"Warehouse store",32
+3924,"Washer & dryer repair service",31
+3925,"Washer & dryer store",32
+3926,"Waste management service",33
+3927,"Watch manufacturer",21
+3928,"Watch repair service",31
+3929,"Watch store",32
+3930,"Water cooler supplier",35
+3931,"Water damage restoration service",36
+3932,"Water filter supplier",35
+3933,"Water jet cutting service",21
+3934,"Water mill",21
+3935,"Water park",4
+3936,"Water polo pool",34
+3937,"Water pump supplier",35
+3938,"Water purification company",21
+3939,"Water ski shop",34
+3940,"Water skiing club",34
+3941,"Water skiing instructor",34
+3942,"Water skiing service",34
+3943,"Water softening equipment supplier",35
+3944,"Water sports equipment rental service",34
+3945,"Water tank cleaning service",1
+3946,"Water testing service",1
+3947,"Water treatment plant",10
+3948,"Water treatment supplier",35
+3949,"Water utility company",10
+3950,"Water works",10
+3951,"Water works equipment supplier",35
+3952,"Waterbed repair service",31
+3953,"Waterbed store",32
+3954,"Waterproofing company",20
+3955,"Wax museum",4
+3956,"Wax supplier",35
+3957,"Waxing hair removal service",12
+3958,"Weather forecast service",36
+3959,"Weaving mill",21
+3960,"Web hosting company",36
+3961,"Wedding bakery",14
+3962,"Wedding buffet",14
+3963,"Wedding chapel",12
+3964,"Wedding dress rental service",24
+3965,"Wedding photographer",12
+3966,"Wedding planner",12
+3967,"Wedding service",12
+3968,"Wedding souvenir shop",32
+3969,"Wedding store",32
+3970,"Wedding venue",12
+3971,"Weigh station",21
+3972,"Weight loss service",16
+3973,"Weightlifting area",34
+3974,Weir,7
+3975,Welder,21
+3976,"Welding gas supplier",35
+3977,"Welding supply store",32
+3978,"Well drilling contractor",7
+3979,"Wellness center",16
+3980,"Wellness hotel",20
+3981,"Wellness program",16
+3982,"Welsh restaurant",14
+3983,"Wesleyan church",30
+3984,"West African restaurant",14
+3985,"Western apparel store",32
+3986,"Western restaurant",14
+3987,"Whale watching tour agency",20
+3988,"Wheel alignment service",21
+3989,"Wheel store",32
+3990,"Wheelchair rental service",17
+3991,"Wheelchair repair service",31
+3992,"Wheelchair store",17
+3993,"Wholesale bakery",32
+3994,"Wholesale drugstore",32
+3995,"Wholesale florist",32
+3996,"Wholesale food store",32
+3997,"Wholesale grocer",32
+3998,"Wholesale jeweler",32
+3999,"Wholesale market",32
+4000,"Wholesale plant nursery",32
+4001,Wholesaler,32
+4002,"Wholesaler household appliances",32
+4003,"Wi-Fi spot",36
+4004,"Wicker store",32
+4005,"Wig shop",32
+4006,"Wildlife and safari park",20
+4007,"Wildlife park",20
+4008,"Wildlife refuge",23
+4009,"Wildlife rescue service",26
+4010,"Willow basket manufacturer",21
+4011,"Wind farm",10
+4012,"Wind turbine builder",7
+4013,"Window cleaning service",19
+4014,"Window installation service",19
+4015,"Window supplier",35
+4016,"Window tinting service",19
+4017,"Window treatment store",32
+4018,"Windsurfing store",34
+4019,"Wine bar",14
+4020,"Wine cellar",14
+4021,"Wine club",14
+4022,"Wine storage facility",14
+4023,"Wine store",14
+4024,"Wine wholesaler and importer",32
+4025,"Winemaking supply store",14
+4026,Winery,14
+4027,"Wing chun school",34
+4028,"Wok restaurant",14
+4029,"Women’s clothing store",32
+4030,"Womens college",9
+4031,"Women’s organization",23
+4032,"Women’s personal trainer",16
+4033,"Womens protection service",23
+4034,"Women’s shelter",23
+4035,"Wood and laminate flooring supplier",35
+4036,"Wood floor installation service",19
+4037,"Wood floor refinishing service",19
+4038,"Wood frame supplier",35
+4039,"Wood stove shop",32
+4040,"Wood supplier",35
+4041,"Woodworking class",9
+4042,Woodworker,21
+4043,"Woodworking supply store",32
+4044,"Wool store",32
+4045,"Work clothes store",32
+4046,"Workers’ club",23
+4047,"Working womens hostel",20
+4048,"Wrestling school",34
+4049,"X-ray equipment supplier",35
+4050,"X-ray lab",17
+4051,"Yacht broker",32
+4052,"Yacht club",20
+4053,Yakatabune,20
+4054,"Yakiniku restaurant",14
+4055,"Yakisoba Restaurant",14
+4056,"Yakitori restaurant",14
+4057,"Yamaha motorcycle dealer",8
+4058,"Yarn store",32
+4059,"Yemenite restaurant",14
+4060,Yeshiva,9
+4061,"Yoga instructor",16
+4062,"Yoga retreat center",20
+4063,"Yoga studio",16
+4064,"Youth care",23
+4065,"Youth center",23
+4066,"Youth clothing store",32
+4067,"Youth club",23
+4068,"Youth group",23
+4069,"Youth hostel",20
+4070,"Youth organization",23
+4071,"Youth social services organization",23
+4072,"Yucatan restaurant",14
+4073,"Zhejiang restaurant",14
+4074,Zoo,20
+4075,"Real Estate Builders & Construction Company",28
+4076,"Diamond Merchant",21
+4077,"Petrol Pump",1
+4078,"Car Service Station",1
+4079,"Computer Hardware Company",1
+4080,Court,1
+4081,"County court",1
+4082,"Fingerprinting Service Provider",1
+4083,"Beauty Parlour",1
+4084,saloon,1
+4085,"Mental Hospital",1
+4086,vms,1
+4087,"Children's Book Store",1
+4088,"Specialist book shop",1
+4089,"Road Contractor",1
+4090,"Crane Dealer and Manufacturer",1
+4091,"Iron & Steel Industry",1
+4092,"Manufacturing & Industrial Consultant",1
+4093,navision,1
+4094,"Video Conferencing Service Provider",1
+4095,cloud,1
+4096,"Central Government Office",1
+4097,"Disability services and support organization",1
+4098,books,1
+4099,"Solar energy system service",1
+4100,"Inverter & UPS Manufacturer",1
+4101,"Women's clothing store",1
+4102,"Farmers' market",1
+4103,"Payroll Service Provider",1
+4104,Design,1
+4105,"Fertilizer Store",1
+4106,"Cleaning Services",1
+4107,"Teachers' housing",1
+4108,Accounting,1
+4109,"Business related",1
+4110,"Bus stop",1
+4111,Health,1
+4112,"Alternative Medicine Clinic",1
+4113,"Physiotherapy Center",1
+4114,"ayurvedic medical center",1
+4115,"Police department",1
+4116,"Train station",1
+4117,"Men's clothing store",1
+4118,"Tax collector's office",1
+4119,"Television Channel",1
+4120,"Aadhaar center",1
+4121,"Security system installation service",1
+4122,computer,1
+4123,pets,1
+4124,"Pet care",1
+4125,"Leather Products Manufacturer",1
+4126,"shoe manufacturer",1
+4127,"Stores and shopping",1
+4128,"Drafting Service Center",1
+4129,"Coaching service",1
+4130,"Financial advisor",1
+4131,Computers,1
+4132,"Veterinary care",1
+4133,"Children's clothing store",1
+4134,"Childrens store",1
+4135,"Bicycle Shop",1
+4136,"Helmet shop",1
+4137,"Inverter and UPS manufacturer",1
+4138,"Industrial spares and products wholesaler",1
+4139,"Scrap merchant",1
+4140,Homestay,1
+4141,"Bus station",1
+4142,Establishment,1
+4143,"Tourism development corporation",1
+4144,"Clothing manufacturer",1
+4145,"Academic department",1
+4146,"Childrens library",1
+4147,"Property administration service",1
+4148,"City Hall",1
+4149,"Women's personal trainer",1
+4150,"Applied behavior analysis therapist",1
+4151,Company,1
+4152,"Mountain bike store",1
+4153,"Delivery Restaurant",1
+4154,"Historical place",1
+4155,"School cafeteria",1
+4156,"Electricity board",1
+4157,"High court",1
+4158,Courthouse,1
+4159,"Back office",1
+4160,"Subway station",1
+4161,"Women's college",1
+4162,"Offset printer",1
+4163,"Newspaper distribution service",1
+4164,"Police station",1
+4165,"Girls' hostel",1
+4166,"Machine maintenance service",1
+4167,"Iron and steel industry",1
+4168,"Iron and steel store",1
+4169,"Waterproofing service",1
+4170,"E commerce agency",1
+4171,"Outdoor activity organiser",1
+4172,"Travel services",1
+4173,"Visa consulting service",1
+4174,"Self-catering accommodation",1
+4175,"Tool exporter",1
+4176,"Electrical products wholesaler",1
+4177,"Spice exporter",1
+4178,"Pipe manufacturer",1
+4179,"Pipes wholesaler",1
+4180,"Plastic products wholesaler",1
+4181,"Non vegetarian restaurant",1
+4182,"Chemical industry",1
+4183,"Religious statue manufacturer",1
+4184,"Flavours fragrances and aroma supplier",1
+4185,"Lighting products wholesaler",1
+4186,Mover,1
+4187,"Knife manufacturer",1
+4188,"Sportwear manufacturer",1
+4189,"Spice wholesaler",1
+4190,"Adhesives and glue supplier",1
+4191,"Protected area",1
+4192,"Computer rental agency",1
+4193,"Designer clothing store",1
+4194,"Electric bicycle store",1
+4195,"Disposable items shop",1
+4196,"Mineral supplier",1
+4197,"Electric generator shop",1
+4198,"Casual clothing store",1
+4199,Office,1
+4200,"Property investment company",1
+4201,"School administration office",1
+4202,"Real estate",1
+4203,"Information and referral services",1
+4204,Tourism,1
+4205,"Car rental",1
+4206,"Taxicab Stand",1
+4207,"Cottage village",1
+4208,"Public transportation system",1
+4209,"Groundwater development company",1
+4210,Education,1
+4211,Attorney,1
+4212,"Advertising service",1
+4213,"Martial arts",1
+4214,"Women's organization",1
+4215,"Teachers college",1
+4216,"Polytechnic institute",1
+4217,Police,1
+4218,"Vehicle inspection service",1
+4219,Electronics,1
+4220,"Trading firm",1
+4221,"Women's health clinic",1
+4222,Instruction,1
+4223,Internet,1
+4224,"Public beach",1
+4225,"Emergency services",1
+4226,"Plastic supplier",1
+4227,Ruin,1
+4228,"Children's home",1
+4229,Art,1
+4230,"Artistic handicrafts",1
+4231,"Association / Organization",1
+4232,"Mens tailor",1
+4233,"Tata Motors dealer",1
+4234,"Online share trading center",1
+4235,"Magistrates' court",1
+4236,"Electronic engineering service",1
+4237,"Chemical engineering service",1
+4238,Payphone,1
+4239,"Electrical and electronics stores",1
+4240,"Branding agency",1
+4241,"Airport parking lot",1
+4242,"Boys' high school",1
+4243,"Girls' high school",1
+4244,"State board school",1
+4245,"Training provider",1
+4246,Baseball,1
+4247,"Office services",1
+4248,E-commerce,1
+4249,"Care services",1
+4250,"Boys' hostel",1
+4251,"Sports association",1
+4252,"Children's amusement center",1
+4253,Builder,1
+4254,Catering,1
+4255,"Transit station",1
+4256,"Transport interchange",1
+4257,"Public call office booth",1
+4258,"Off roading area",1
+4259,"Vista point",1
+4260,"Indoor lodging",1
+4261,Elevated,1
+4262,Apartments,1
+4263,Island,1
+4264,"Homeowners' association",1
+4265,"Biking trail",1
+4266,"Translation service",1
+4267,"Banking and finance",1
+4268,"Service establishment",1
+4269,Cars,1
+4270,"Solar panel maintenance service",1
+4271,"Professional services",1
+4272,"Home staging service",1
+4273,"Arborist service",1
+4274,"Interior decoration",1
+4275,"Children's museum",1
+4276,"Copywriting service",1
+4277,"Professional association",1
+4278,"Alumni association",1
+4279,Marketing,1
+4280,"Information and technology services",1
+4281,"Faculty of media and information science",1
+4282,"Digital media",1
+4283,Cooperative,1
+4284,"Training consultant",1
+4285,"Working women's hostel",1
+4286,Government,1
+4287,"Payment terminal",1
+4288,"Banking entrance coaching centre",1
+4289,"Courier & shipping services",1
+4290,"District court",1
+4291,"Traffic police station",1
+4292,"Workers' club",1
+4293,"Sheriff's department",1
+4294,"Public defender's office",1
+4295,"Agricultural loan agency",1
+4296,Showroom,1
+4297,"Import car dealer",1
+4298,Photography,1
+4299,Construction,1
+4300,Seaport,1
+4301,Industry,1
+4302,Entertainment,1
+4303,"Childrens theater",1
+4304,"Environmental program",1
+4305,"Dryer vent cleaning service",1
+4306,"Cleaning service",1
+4307,Rental,1
+4308,Storage,1
+4309,"Cost accounting service",1
+4310,"Special educator",1
+4311,"Wood working class",1
+4312,"Children's party service",1
+4313,"Confectionery store",1
+4314,"Tubewell contractor",1
+4315,"Electric motorcycle dealer",1
+4316,"Seolleongtang restaurant",1
+4317,"Electric motor scooter dealer",1
+4318,"Police officers' housing",1
+4319,"Parasailing ride operator",1
+4320,"Beach pavillion",1
+4321,"Trading company",1
+4322,Metalwork,1
+4323,Beach,1
+4324,"Rescue squad",1
+4325,"Children's camp",1
+4326,"Junk removal service",1
+4327,"Driver's license office",1
+4328,"City clerk's office",1
+4329,"Natural feature",1
+4330,"Food and drink",1
+4331,"Farming and cattle raising",1
+4332,"Rehearsal studio",1
+4333,"Smoke shop",1
+4334,"Crypto ATM",1
+4335,"Transit stop",1
+4336,"Federal courthouse",1
+4337,"Juvenile court",1
+4338,"Jehovah's Witness Kingdom Hall",1
+4339,"Personal chef service",1
+4340,"Truck driving school",1
+4341,"Mountain peak",1
+4342,Logistics,1
+4343,Aviation,1
+4344,Plaza,1
+4345,"Drone service",1
+4346,"Children's club",1
+4347,Landmark,1
+4348,"Hiking guide",1
+4349,"Group accommodation",1
+4350,"Webcam location",1
+4351,"Dog care",1
+4352,"Children's hospital",1
+4353,"Battle site",1
+4354,Telecommunications,1
+4355,Services,1
+4356,Insurance,1
+4357,"Labour department",1
+4358,"Steelwork design service",1
+4359,"Waste transfer station",1
+4360,"Boat cleaning service",1
+4361,"Renter's insurance agency",1
+4362,"Nuclear engineering service",1
+4363,"Information centers",1
+4364,Fair,1
+4365,"Petrochemical engineering service",1
+4366,"Food service",1
+4367,Media,1
+4368,"Children's furniture store",1
+4369,"Nanotechnology engineering service",1
+4370,Beverages,1
+4371,Monument,1
+4372,"Gutter service",1
+4373,"Public services",1
+4374,"Gas and automotive",1
+4375,"Pizza Takeout",1
+4376,"Supreme court",1
+4377,"Building lots sales agency",1
+4378,"Municipal hall",1
+4379,"Glass engraving service",1
+4380,"Transportation infrastructure",1
+4381,Printing,1
+4382,Port,1
+4383,"Ferry terminal",1
+4384,"Scaffolding service",1
+4385,"Food store",1
+4386,"Domestic services",1
+4387,"Sports activity location",1
+4388,"Fishing lake",1
+4389,"Faculty of geography and history",1
+4390,Eatery,1
+4391,Institute,1
+4392,Heating,1
+4393,Recycling,1
+4394,Repairs,1
+4395,"Garden machinery supplier",1
+4396,Pumps,1
+4397,"Apparel company",1
+4398,Welding,1
+4399,"Offset printing service",1
+4400,"Public utility",1
+4401,"Energy efficiency company",1
+4402,Agriculture,1
+4403,"Public utility company",1
+4404,"School for the visually impaired",1
+4405,"Vending machine",1
+4406,"Clock and watch maker",1
+4407,"Match box manufacturer",1
+4408,"Aluminium products manufacturer",1
+4409,"Office supply",1
+4410,Advertising,1
+4411,"Model builder",1
+4412,Textiles,1
+4413,"Sunblind supplier",1
+4414,Metalworking,1
+4415,"Fire extinguisher",1
+4416,"Children's store",1
+4417,"Grow shop",1
+4418,Animals,1
+4419,Food,1
+4420,"Movie rental",1
+4421,"Women's protection service",1
+4422,"Bahá'í house of worship",1
+4423,"Women's shelter",1
+4424,"Human resources",1
+4425,"War memorial",1
+4426,"Fishing area",1
+4427,"Forestry office",1
+4428,Massage,1
+4429,"Public transport",1
+4430,"Electric motor vehicle dealer",1
+4431,Travel,1
+4432,Beauty,1
+4433,Pedorthist,1
+4434,Botanica,1
+4435,"Lactation service",1
+4436,"Test preparation center",1
+4437,"Inclined railway station",1
+4438,"Military airport",1
+4439,Recreation,1
+4440,"Non smoking holiday home",1
+4441,Homes,1
+4442,"Crisis center",1
+4443,"Assembly hall",1
+4444,Trucking,1
+4445,Hall,1
+4446,"Horse riding",1
+4447,Therapists,1
