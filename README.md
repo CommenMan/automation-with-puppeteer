@@ -113,9 +113,21 @@ Build the project from source:
 To run the project, execute the following command:
 
 ```sh
-❯ node 
+❯ npm run run-all
 ```
-
+To run the each module, execute
+1. run "retrive_from csv.js" to create json file which contain all 4000 categories.
+```sh
+❯ npm run createJSON
+```
+2. run "retriveImageURL.js" to fetch all urls of images.
+```sh
+❯ npm run retrieveURL
+```
+3. run "download.js" file to download all images from given urls and save according to categories folder.
+```sh
+❯ npm run download
+```
 ### 🧪 Tests
 
 Execute the test suite using the following command:
