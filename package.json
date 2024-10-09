@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "node index.js"
+  "scripts": "scripts": {
+     "run-all": "node retrive_from_csv.js && node retriveImageURL.js && node download.js",
+     "createJSON":"node retrive_from_csv.js ",
+     "retrieveURL": "node retriveImageURL.js",
+     "download": "node download.js"
   },
   "keywords": [],
   "author": "",
