@@ -16,7 +16,6 @@
 </p>
 <p align="left">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
-	<img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=flat&logo=Axios&logoColor=white" alt="Axios">
 	<img src="https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=flat&logo=Puppeteer&logoColor=white" alt="Puppeteer">
 	<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white" alt="JSON">
 </p>
@@ -42,16 +41,6 @@
 </details>
 <hr>
 
-## 📍 Overview
-
-<code>❯ REPLACE-ME</code>
-
----
-
-## 👾 Features
-
-<code>❯ REPLACE-ME</code>
-
 ---
 
 ## 📂 Repository Structure
@@ -74,10 +63,10 @@
 
 | File | Summary |
 | --- | --- |
-| [retrive_from_csv.js](https://github.com/CommenMan/automation-with-puppeteer/blob/main/retrive_from_csv.js) | <code>❯ REPLACE-ME</code> |
-| [retriveImageURl.js](https://github.com/CommenMan/automation-with-puppeteer/blob/main/retriveImageURl.js) | <code>❯ REPLACE-ME</code> |
-| [package.json](https://github.com/CommenMan/automation-with-puppeteer/blob/main/package.json) | <code>❯ REPLACE-ME</code> |
-| [download.js](https://github.com/CommenMan/automation-with-puppeteer/blob/main/download.js) | <code>❯ REPLACE-ME</code> |
+| [retrive_from_csv.js](https://github.com/CommenMan/automation-with-puppeteer/blob/main/retrive_from_csv.js) | <code>❯ create array of categories name and stored into json file.</code> |
+| [retriveImageURl.js](https://github.com/CommenMan/automation-with-puppeteer/blob/main/retriveImageURl.js) | <code>❯ its retrive image urls (on the basis of previously created json file) from given website but 1st you want to run retirve_from_csv.js file.</code> |
+| [package.json](https://github.com/CommenMan/automation-with-puppeteer/blob/main/package.json) | <code>❯JSON file where you see all dependences and scripts </code> |
+| [download.js](https://github.com/CommenMan/automation-with-puppeteer/blob/main/download.js) | <code>❯ download the from image url json file. </code> |
 
 </details>
 
